@@ -1,0 +1,1442 @@
+﻿Log file open, 02/25/19 13:03:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MultiplayerTest
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.489219
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin TargetSystem
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.133s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2019.02.25-18.03.42:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.25-18.03.42:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2019.02.25-18.03.42:060][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2019.02.25-18.03.42:063][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.25-18.03.42:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.25-18.03.42:064][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.25-18.03.42:064][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.25-18.03.42:064][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.25-18.03.42:077][  0]LogHAL: Display: Platform has ~ 16 GB [17014509568 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.25-18.03.42:077][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.25-18.03.42:077][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.25-18.03.42:077][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.25-18.03.42:078][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.25-18.03.42:078][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.25-18.03.42:078][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.25-18.03.42:078][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.25-18.03.42:078][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.25-18.03.42:078][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-18.03.42:078][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.25-18.03.42:078][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.25-18.03.42:078][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.25-18.03.42:078][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.25-18.03.42:078][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2019.02.25-18.03.42:078][  0]LogInit: Computer: LAPTOP-E9JQ5VNQ
+[2019.02.25-18.03.42:078][  0]LogInit: User: welen
+[2019.02.25-18.03.42:078][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.02.25-18.03.42:078][  0]LogInit: High frequency timer resolution =2.156249 MHz
+[2019.02.25-18.03.42:078][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.02.25-18.03.42:078][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.25-18.03.42:078][  0]LogMemory: Process Physical Memory: 103.52 MB used, 103.52 MB peak
+[2019.02.25-18.03.42:078][  0]LogMemory: Process Virtual Memory: 86.53 MB used, 86.53 MB peak
+[2019.02.25-18.03.42:078][  0]LogMemory: Physical Memory: 7869.99 MB used,  8356.31 MB free, 16226.30 MB total
+[2019.02.25-18.03.42:078][  0]LogMemory: Virtual Memory: 4665.05 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.02.25-18.03.42:302][  0]LogInit: Using OS detected language (en-US).
+[2019.02.25-18.03.42:302][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.25-18.03.42:304][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.25-18.03.42:656][  0]LogStreaming: Display: Took  0.353s to InitEngineTextLocalization.
+[2019.02.25-18.03.42:656][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.25-18.03.42:712][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.25-18.03.42:712][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.25-18.03.42:959][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.25-18.03.42:959][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.25-18.03.43:135][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.02.25-18.03.43:135][  0]LogD3D11RHI:       6061/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.25-18.03.43:227][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.02.25-18.03.43:227][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.25-18.03.43:230][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.25-18.03.43:230][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.25-18.03.43:230][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.25-18.03.43:264][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.25-18.03.43:264][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.25-18.03.43:264][  0]LogWindows: EnumDisplayDevices:
+[2019.02.25-18.03.43:265][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.02.25-18.03.43:265][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.02.25-18.03.43:265][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.02.25-18.03.43:266][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.02.25-18.03.43:266][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.02.25-18.03.43:266][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.02.25-18.03.43:266][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2019.02.25-18.03.43:266][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2019.02.25-18.03.43:266][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2019.02.25-18.03.43:294][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.25-18.03.43:305][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.02.25-18.03.43:782][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.25-18.03.43:809][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.25-18.03.43:837][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.25-18.03.43:864][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.25-18.03.43:893][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.25-18.03.43:922][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.25-18.03.43:955][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.25-18.03.43:982][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.25-18.03.44:005][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-18.03.44:105][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.25-18.03.44:208][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.25-18.03.44:208][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.25-18.03.44:242][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.25-18.03.44:242][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.25-18.03.44:269][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.25-18.03.44:296][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.25-18.03.44:322][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.25-18.03.44:352][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.25-18.03.44:407][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.25-18.03.44:407][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.25-18.03.44:407][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.25-18.03.44:911][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Intermediate/Shaders/WorkingDirectory/40344/).
+[2019.02.25-18.03.44:911][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/welen/AppData/Local/Temp/UnrealShaderWorkingDir/6F81E7E74BF6B41445CF519F69906811/'.
+[2019.02.25-18.03.44:915][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.25-18.03.44:915][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.25-18.03.44:915][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.25-18.03.45:391][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.25-18.03.45:440][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/welen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.25-18.03.45:440][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/welen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.25-18.03.45:440][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.25-18.03.45:440][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.25-18.03.45:440][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.25-18.03.45:440][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.25-18.03.45:452][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.25-18.03.45:452][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.25-18.03.45:452][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.25-18.03.45:466][  0]LogDerivedDataCache: Using Local data cache path C:/Users/welen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.25-18.03.45:466][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.25-18.03.45:466][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.25-18.03.45:485][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.25-18.03.45:486][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.25-18.03.45:490][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.25-18.03.45:577][  0]LogAssetRegistry: FAssetRegistry took 0.0318 seconds to start up
+[2019.02.25-18.03.45:864][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.25-18.03.46:267][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.25-18.03.46:329][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.25-18.03.46:329][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.25-18.03.46:329][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.25-18.03.46:329][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.25-18.03.46:350][  0]LogNetVersion: MultiplayerTest 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1814137015)
+[2019.02.25-18.03.46:909][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.113549 seconds
+[2019.02.25-18.03.46:914][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.25-18.03.46:914][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.25-18.03.46:914][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.25-18.03.48:693][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.25-18.03.48:723][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.25-18.03.50:010][  0]SourceControl: Source control is disabled
+[2019.02.25-18.03.50:010][  0]SourceControl: Source control is disabled
+[2019.02.25-18.03.50:045][  0]SourceControl: Source control is disabled
+[2019.02.25-18.03.50:062][  0]SourceControl: Source control is disabled
+[2019.02.25-18.03.50:611][  0]LogTemp: Warning: UTargetLockOnWidget initialization
+[2019.02.25-18.03.50:612][  0]LogTemp: Warning: Target System Plugin Loaded
+[2019.02.25-18.03.50:888][  0]LogOnline: Display: STEAM: Loading Steam SDK 1.39
+[2019.02.25-18.03.50:922][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.25-18.03.51:077][  0]LogOcInput: OculusInput pre-init called
+[2019.02.25-18.03.51:299][  0]LogEngine: Initializing Engine...
+[2019.02.25-18.03.51:300][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.25-18.03.51:301][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.25-18.03.51:301][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.25-18.03.51:301][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.25-18.03.51:301][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.25-18.03.51:519][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.25-18.03.51:558][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.25-18.03.51:606][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.25-18.03.51:635][  0]LogInit: FAudioDevice initialized.
+[2019.02.25-18.03.51:635][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.25-18.03.51:742][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/welen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.25-18.03.51:747][  0]LogInit: Texture streaming: Enabled
+[2019.02.25-18.03.51:836][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.25-18.03.51:874][  0]LogInit: Transaction tracking system initialized
+[2019.02.25-18.03.51:991][  0]BlueprintLog: New page: Editor Load
+[2019.02.25-18.03.52:501][  0]LocalizationService: Localization service is disabled
+[2019.02.25-18.03.52:929][  0]LogLinker: Warning: Can't find file '/Game/InventorySystem/Documentation/InventorySystem_TUT_Porting'
+[2019.02.25-18.03.52:929][  0]LogLinker: Warning: Can't find file '/Game/InventorySystem/Documentation/InventorySystem_TUT_Porting'
+[2019.02.25-18.03.52:929][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/InventorySystem/Documentation/InventorySystem_TUT_Porting.InventorySystem_TUT_Porting_C'
+[2019.02.25-18.03.52:929][  0]LogLinker: Warning: Can't find file '/Game/InventorySystem/Documentation/InventorySystem_TUT_Intro'
+[2019.02.25-18.03.52:929][  0]LogLinker: Warning: Can't find file '/Game/InventorySystem/Documentation/InventorySystem_TUT_Intro'
+[2019.02.25-18.03.52:929][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/InventorySystem/Documentation/InventorySystem_TUT_Intro.InventorySystem_TUT_Intro_C'
+[2019.02.25-18.03.53:252][  0]LogFileCache: Scanning file cache for directory 'C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Content/' took 0.02s
+[2019.02.25-18.03.53:252][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.25-18.03.53:252][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.25-18.03.53:252][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.25-18.03.53:252][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.25-18.03.53:252][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.25-18.03.53:253][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.25-18.03.53:253][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.25-18.03.53:925][  0]SourceControl: Source control is disabled
+[2019.02.25-18.03.53:925][  0]Cmd: MAP LOAD FILE="../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.25-18.03.53:925][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.02.25-18.03.53:925][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.25-18.03.53:925][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2019.02.25-18.03.53:925][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.001
+[2019.02.25-18.03.54:039][  0]LogCollectionManager: Loaded 0 collections in 0.004413 seconds
+[2019.02.25-18.03.54:057][  0]LogFileCache: Scanning file cache for directory 'C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Collections/' took 0.01s
+[2019.02.25-18.03.54:057][  0]LogFileCache: Scanning file cache for directory 'C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Content/Developers/welen/Collections/' took 0.00s
+[2019.02.25-18.03.54:057][  0]LogFileCache: Scanning file cache for directory 'C:/Users/welen/Documents/Unreal Projects/MultiplayerTest/Content/Collections/' took 0.00s
+[2019.02.25-18.03.54:057][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.25-18.03.54:065][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2680 classes and 633 folders.
+[2019.02.25-18.03.54:074][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.25-18.03.54:083][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:085][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:086][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:087][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:088][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:090][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:091][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:091][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:092][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:093][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:094][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:096][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-18.03.54:177][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.25-18.03.54:197][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.03.54:204][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.03.54:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.03.54:216][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.03.54:253][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.25-18.03.54:308][  0]LogSlate: Took 0.001333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.25-18.03.54:311][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.25-18.03.54:312][  0]LogSlate: Took 0.000823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.25-18.03.54:378][  0]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:1).
+[2019.02.25-18.03.54:572][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.25-18.03.54:572][  0]LogLoad: (Engine Initialization) Total time: 15.57 seconds
+[2019.02.25-18.03.54:572][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.25-18.03.54:616][  0]LogAssetRegistry: Asset discovery search completed in 9.0616 seconds
+[2019.02.25-18.03.54:619][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.25-18.03.54:619][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2019.02.25-18.03.54:621][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.25-18.03.54:652][  0]LogSlate: Took 0.000658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.25-18.06.48:861][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.06.49:940][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.06.50:972][799]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.02.25-18.06.51:146][804]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MultiplayerTest
+[2019.02.25-18.06.51:146][804]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.25-18.06.51:146][804]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.02.25-18.06.51:146][804]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.25-18.06.51:158][805]LogTemp: BranchPath = LAPTOP-E9JQ5VNQ/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = LAPTOP-E9JQ5VNQ/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.02.25-18.06.51:176][806]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\welen\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.02.25-18.07.20:339][357]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.25-18.07.26:674][735]LogSlate: Window 'Project Settings' being destroyed
+[2019.02.25-18.07.26:680][735]LogSlate: Window 'Project Settings' being destroyed
+[2019.02.25-18.07.27:523][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.07.30:703][792]LogSlate: Window 'Save Level As' being destroyed
+[2019.02.25-18.07.32:165][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.07.32:981][922]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.07.32:995][922]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Main.Main
+[2019.02.25-18.07.33:022][922]Cmd: MAP LOAD FILE="../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.25-18.07.33:022][922]LightingResults: New page: Lighting Build
+[2019.02.25-18.07.33:026][922]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2019.02.25-18.07.33:026][922]LoadErrors: New page: Loading map: Main.umap
+[2019.02.25-18.07.33:026][922]MapCheck: New page: Map Check
+[2019.02.25-18.07.33:027][922]LightingResults: New page: Lighting Build
+[2019.02.25-18.07.33:122][922]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.25-18.07.33:159][922]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.25-18.07.33:159][922]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2019.02.25-18.07.33:159][922]LogFileHelpers: Loading map 'Main' took 0.138
+[2019.02.25-18.21.04:316][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.21.06:292][ 79]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.02.25-18.21.06:717][ 79]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.02.25-18.21.07:414][ 79]LogSlate: Took 0.000734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.25-18.21.07:602][ 80]LogSlate: Took 0.002315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.25-18.21.40:191][  7]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.02.25-18.21.56:559][949]BlueprintLog: New page: Compile FirstPersonProjectile
+[2019.02.25-18.21.57:270][974]LogSavePackage: Moving '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/FirstPersonProjectile21867815419591AA5580A99A8549CD3C.tmp' to '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/FirstPersonProjectile.uasset'
+[2019.02.25-18.22.08:156][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.24.14:044][759]LogSavePackage: Moving '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Main_Auto162E423BB4099C51256536D840B2ACDDA.tmp' to '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2019.02.25-18.24.14:048][759]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.194
+[2019.02.25-18.24.14:048][759]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.194
+[2019.02.25-18.24.14:050][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/FirstPersonProjectile] ([1] browsable assets)...
+[2019.02.25-18.24.14:081][759]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/FirstPersonProjectile.FirstPersonProjectile]
+[2019.02.25-18.24.14:081][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FirstPersonProjectile]
+[2019.02.25-18.24.14:112][759]LogSavePackage: Moving '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/FirstPersonProjectile_Auto140B2FEB843F433552531FEB708D57B6C.tmp' to '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Autosaves/Game/Blueprints/FirstPersonProjectile_Auto1.uasset'
+[2019.02.25-18.24.14:114][759]LogFileHelpers: Auto-saving content packages took 0.065
+[2019.02.25-18.33.47:486][678]BlueprintLog: New page: Compile FirstPersonProjectile
+[2019.02.25-18.33.47:500][678]LogBlueprint: Error: [Compiler FirstPersonProjectile] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.02.25-18.33.47:500][678]LogBlueprint: Error: [Compiler FirstPersonProjectile] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2019.02.25-18.33.47:666][678]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [1808.67] Compile of FirstPersonProjectile failed. 2 Fatal Issue(s) 0 Warning(s) [in 180 ms] (/Game/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2019.02.25-18.35.16:965][ 22]BlueprintLog: New page: Compile FirstPersonProjectile
+[2019.02.25-18.35.18:579][104]LogSavePackage: Moving '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/FirstPersonProjectileF00D54834B3796408F21C69A42DAA523.tmp' to '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/FirstPersonProjectile.uasset'
+[2019.02.25-18.35.20:089][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.35.23:754][411]LogSavePackage: Moving '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/FirstPersonProjectile64ABAD1A4487C161EE01169CCC5AFC8B.tmp' to '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/FirstPersonProjectile.uasset'
+[2019.02.25-18.35.24:347][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.35.55:070][899]LogSavePackage: Moving '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Main_Auto291240C1840E74CDB613D14879D7FA74F.tmp' to '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2019.02.25-18.35.55:074][899]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.187
+[2019.02.25-18.35.55:074][899]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.187
+[2019.02.25-18.38.00:376][ 39]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PC.BP_PC
+[2019.02.25-18.38.18:182][ 82]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.25-18.39.56:143][823]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.25-18.39.56:907][844]LogSavePackage: Moving '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/FirstPersonCharacterC70E7A5F418FC483710D218194C99C44.tmp' to '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/FirstPersonCharacter.uasset'
+[2019.02.25-18.39.58:166][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.39.59:348][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.39.59:481][998]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.02.25-18.39.59:510][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.39.59:510][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.25-18.39.59:510][998]PIE: New page: PIE session: Main (Feb 25, 2019, 8:39:59 AM)
+[2019.02.25-18.39.59:524][998]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Main
+[2019.02.25-18.39.59:529][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004766s)
+[2019.02.25-18.39.59:529][998]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.39.59:530][998]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2019.02.25-18.39.59:530][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_1_Main.Main (0.005638s)
+[2019.02.25-18.39.59:568][998]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.25-18.39.59:574][998]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Main.Main up for play (max tick rate 60) at 2019.02.25-13.39.59
+[2019.02.25-18.39.59:580][998]LogWorld: Bringing up level for play took: 0.009178
+[2019.02.25-18.39.59:581][998]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.39.59:581][998]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.02.25-18.39.59:581][998]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.39.59:584][998]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.02.25-18.39.59:584][998]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.02.25-18.39.59:584][998]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.02.25-18.39.59:585][998]LogInit: WinSock: I am LAPTOP-E9JQ5VNQ (192.168.1.71:0)
+[2019.02.25-18.39.59:585][998]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.39.59:585][998]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2019.02.25-18.39.59:586][998]LogTemp: Error: [FirstPersonCharacter2_5] TargetSystemComponent: Cannot get PlayerController reference ...
+[2019.02.25-18.39.59:586][998]LogTemp: Error: [FirstPersonCharacter3_8] TargetSystemComponent: Cannot get PlayerController reference ...
+[2019.02.25-18.39.59:586][998]LogTemp: Error: [FirstPersonCharacter_2] TargetSystemComponent: Cannot get PlayerController reference ...
+[2019.02.25-18.39.59:586][998]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_Main 0.594
+[2019.02.25-18.39.59:594][998]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.25-18.39.59:612][998]LogInit: FAudioDevice initialized.
+[2019.02.25-18.39.59:620][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.39.59:655][998]LogNet: Browse: 127.0.0.1:17777//Game/Maps/Main
+[2019.02.25-18.39.59:655][998]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.39.59:655][998]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2019.02.25-18.39.59:655][998]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.25-18.39.59:656][998]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.25-18.39.59:657][998]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.39.59:657][998]LogNet: Game client on port 17777, rate 10000
+[2019.02.25-18.39.59:661][998]PIE: Play in editor start time for /Game/Maps/Main 0.668
+[2019.02.25-18.39.59:666][998]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.39.59:669][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.39.59:705][998]LogNet: Browse: 127.0.0.1:17777//Game/Maps/Main
+[2019.02.25-18.39.59:705][998]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.39.59:705][998]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2019.02.25-18.39.59:705][998]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.25-18.39.59:705][998]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.25-18.39.59:706][998]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.39.59:706][998]LogNet: Game client on port 17777, rate 10000
+[2019.02.25-18.39.59:709][998]PIE: Play in editor start time for /Game/Maps/Main 0.716
+[2019.02.25-18.39.59:714][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.39.59:714][998]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55765
+[2019.02.25-18.39.59:714][998]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 051019093172121082103130081021073133237081080031110007064021
+[2019.02.25-18.39.59:714][998]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55766
+[2019.02.25-18.39.59:714][998]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 246161214179226069056254098105136132010144120153236083115105
+[2019.02.25-18.39.59:745][998]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 051019093172121082103130081021073133237081080031110007064021
+[2019.02.25-18.39.59:746][998]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 246161214179226069056254098105136132010144120153236083115105
+[2019.02.25-18.39.59:825][999]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55765
+[2019.02.25-18.39.59:825][999]LogHandshake: SendChallengeAck. InCookie: 051019093172121082103130081021073133237081080031110007064021
+[2019.02.25-18.39.59:825][999]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55765
+[2019.02.25-18.39.59:825][999]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.39.59:826][999]LogNet: NotifyAcceptedConnection: Name: Main, TimeStamp: 02/25/19 13:39:59, [UNetConnection] RemoteAddr: 127.0.0.1:55765, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.39.59:826][999]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55765, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.39.59:826][999]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55766
+[2019.02.25-18.39.59:826][999]LogHandshake: SendChallengeAck. InCookie: 246161214179226069056254098105136132010144120153236083115105
+[2019.02.25-18.39.59:826][999]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55766
+[2019.02.25-18.39.59:827][999]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.39.59:827][999]LogNet: NotifyAcceptedConnection: Name: Main, TimeStamp: 02/25/19 13:39:59, [UNetConnection] RemoteAddr: 127.0.0.1:55766, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.39.59:827][999]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55766, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.39.59:828][999]LogNetVersion: MultiplayerTest 1.0.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2512682052)
+[2019.02.25-18.39.59:828][999]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.39.59:829][999]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.39.59:858][  0]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Main.Main: Accepted
+[2019.02.25-18.39.59:859][  0]LogNet: Remote platform little endian=1
+[2019.02.25-18.39.59:859][  0]LogNet: This platform little endian=1
+[2019.02.25-18.39.59:859][  0]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Main.Main: Accepted
+[2019.02.25-18.39.59:859][  0]LogNet: Remote platform little endian=1
+[2019.02.25-18.39.59:859][  0]LogNet: This platform little endian=1
+[2019.02.25-18.39.59:893][  1]LogNet: Login request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-065263614F3C89A12C4B7B90CFFDF633 userId: NULL:LAPTOP-E9JQ5VNQ-065263614F3C89A12C4B7B90CFFDF633 platform: NULL
+[2019.02.25-18.39.59:894][  1]LogNet: Login request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-A70A958544CD4E1A49740F9BF38053E8 userId: NULL:LAPTOP-E9JQ5VNQ-A70A958544CD4E1A49740F9BF38053E8 platform: NULL
+[2019.02.25-18.39.59:897][  1]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Main, Game: /Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2019.02.25-18.39.59:897][  1]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_Main?game=/Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2019.02.25-18.39.59:935][  1]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.39.59:935][  1]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.39.59:939][  1]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Main.Main up for play (max tick rate 60) at 2019.02.25-13.39.59
+[2019.02.25-18.39.59:939][  1]LogWorld: Bringing up level for play took: 0.002755
+[2019.02.25-18.39.59:940][  1]LogLoad: Took 0.042941 seconds to LoadMap(/Game/Maps/UEDPIE_1_Main)
+[2019.02.25-18.39.59:941][  1]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Main, Game: /Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2019.02.25-18.39.59:950][  1]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_Main?game=/Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2019.02.25-18.39.59:988][  1]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.39.59:988][  1]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.39.59:991][  1]LogWorld: Bringing World /Game/Maps/UEDPIE_3_Main.Main up for play (max tick rate 60) at 2019.02.25-13.39.59
+[2019.02.25-18.39.59:991][  1]LogWorld: Bringing up level for play took: 0.002546
+[2019.02.25-18.39.59:991][  1]LogLoad: Took 0.041274 seconds to LoadMap(/Game/Maps/UEDPIE_1_Main)
+[2019.02.25-18.40.00:009][  2]LogRenderer: Reallocating scene render targets to support 1280x924 Format 10 NumSamples 1 (Frame:1).
+[2019.02.25-18.40.00:009][  2]LogNet: Client netspeed is 10000
+[2019.02.25-18.40.00:009][  2]LogNet: Join request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-065263614F3C89A12C4B7B90CFFDF633?SplitscreenCount=1
+[2019.02.25-18.40.00:010][  2]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.40.00:019][  2]LogNet: Join succeeded: LAPTOP-E9JQ5VNQ-0652
+[2019.02.25-18.40.00:019][  2]LogNet: Client netspeed is 10000
+[2019.02.25-18.40.00:019][  2]LogNet: Join request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-A70A958544CD4E1A49740F9BF38053E8?SplitscreenCount=1
+[2019.02.25-18.40.00:020][  2]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.40.00:023][  2]LogNet: Join succeeded: LAPTOP-E9JQ5VNQ-A70A
+[2019.02.25-18.40.00:115][  5]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.40.00:118][  5]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.40.00:119][  5]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.40.00:129][  6]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.40.02:824][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.40.05:590][274]LogScript: Warning: Accessed None trying to read property PlayerControllerRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:086F
+[2019.02.25-18.40.05:591][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.05:591][274]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.05:591][274]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.05:591][274]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.05:591][274]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.05:690][280]LogScript: Warning: Accessed None trying to read property PlayerControllerRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:086F
+[2019.02.25-18.40.05:690][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.05:690][280]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.05:690][280]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.05:690][280]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.05:690][280]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.06:025][300]LogScript: Warning: Accessed None trying to read property PlayerControllerRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:086F
+[2019.02.25-18.40.06:025][300]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.06:025][300]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.06:025][300]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.06:025][300]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.06:025][300]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.07:840][409]LogScript: Warning: Accessed None trying to read property PlayerControllerRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:086F
+[2019.02.25-18.40.07:840][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.07:840][409]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.07:840][409]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.07:840][409]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.07:840][409]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.08:191][430]LogScript: Warning: Accessed None trying to read property PlayerControllerRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:086F
+[2019.02.25-18.40.08:191][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.08:191][430]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.08:191][430]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.08:191][430]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.08:191][430]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.08:308][437]LogScript: Warning: Accessed None trying to read property PlayerControllerRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:086F
+[2019.02.25-18.40.08:308][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.08:308][437]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.08:308][437]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.08:308][437]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.08:308][437]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.08:457][446]LogScript: Warning: Accessed None trying to read property PlayerControllerRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:086F
+[2019.02.25-18.40.08:457][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.08:457][446]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.08:457][446]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.08:457][446]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.08:457][446]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.12:057][662]LogScript: Warning: Accessed None trying to read property PlayerControllerRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:086F
+[2019.02.25-18.40.12:057][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.12:057][662]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.12:057][662]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.12:057][662]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.12:058][662]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.12:174][669]LogScript: Warning: Accessed None trying to read property PlayerControllerRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:086F
+[2019.02.25-18.40.12:175][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.12:175][669]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.12:175][669]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.12:175][669]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.12:175][669]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.13:275][735]LogScript: Warning: Accessed None trying to read property PlayerControllerRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:086F
+[2019.02.25-18.40.13:275][735]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.13:275][735]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.13:275][735]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.13:275][735]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.13:275][735]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.13:408][743]LogScript: Warning: Accessed None trying to read property PlayerControllerRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:086F
+[2019.02.25-18.40.13:408][743]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.13:408][743]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter2_5
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.13:408][743]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.13:408][743]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.13:557][752]LogScript: Warning: Accessed None trying to read property PlayerControllerRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:086F
+[2019.02.25-18.40.13:558][752]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.13:558][752]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.13:558][752]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.13:558][752]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.15:859][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.15:859][890]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.15:859][890]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.15:975][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.15:975][897]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.15:975][897]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.16:190][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.16:191][910]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.16:191][910]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.16:357][920]LogScript: Warning: Accessed None trying to read property HUDRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.16:358][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.16:358][920]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.16:358][920]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.16:625][936]LogScript: Warning: Accessed None trying to read property HUDRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.16:625][936]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.16:625][936]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.16:625][936]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.17:342][979]LogScript: Warning: Accessed None trying to read property HUDRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.17:342][979]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.17:342][979]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.17:342][979]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.17:674][999]LogScript: Warning: Accessed None trying to read property HUDRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0884
+[2019.02.25-18.40.17:674][999]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.17:674][999]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0899
+[2019.02.25-18.40.17:674][999]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.21:125][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerControllerRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.21:125][206]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.21:125][206]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.40.22:578][293]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2019.02.25-18.40.22:578][293]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2019.02.25-18.40.22:580][293]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:55766, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_PC_C_1, Owner: BP_PC_C_1, UniqueId: NULL:LAPTOP-E9JQ5VNQ-A70A958544CD4E1A49740F9BF38053E8
+[2019.02.25-18.40.22:581][293]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55766, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_PC_C_1, Owner: BP_PC_C_1, UniqueId: NULL:LAPTOP-E9JQ5VNQ-A70A958544CD4E1A49740F9BF38053E8, Channels: 15, Time: 2019.02.25-18.40.22
+[2019.02.25-18.40.22:581][293]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55766, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_PC_C_1, Owner: BP_PC_C_1, UniqueId: NULL:LAPTOP-E9JQ5VNQ-A70A958544CD4E1A49740F9BF38053E8
+[2019.02.25-18.40.22:581][293]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:55765, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-065263614F3C89A12C4B7B90CFFDF633
+[2019.02.25-18.40.22:581][293]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55765, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-065263614F3C89A12C4B7B90CFFDF633, Channels: 15, Time: 2019.02.25-18.40.22
+[2019.02.25-18.40.22:581][293]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55765, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-065263614F3C89A12C4B7B90CFFDF633
+[2019.02.25-18.40.22:581][293]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2019.02.25-18.40.22:581][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.40.22:581][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.40.22:593][293]LogSlate: Window 'MultiplayerTest Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.25-18.40.22:631][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.40.22:639][293]LogSlate: Window 'MultiplayerTest Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.25-18.40.22:689][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.25-18.40.22:690][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.40.22:722][293]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-A70A958544CD4E1A49740F9BF38053E8
+[2019.02.25-18.40.22:723][293]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-A70A958544CD4E1A49740F9BF38053E8, Channels: 15, Time: 2019.02.25-18.40.22
+[2019.02.25-18.40.22:723][293]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-A70A958544CD4E1A49740F9BF38053E8
+[2019.02.25-18.40.22:723][293]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-065263614F3C89A12C4B7B90CFFDF633
+[2019.02.25-18.40.22:723][293]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-065263614F3C89A12C4B7B90CFFDF633, Channels: 15, Time: 2019.02.25-18.40.22
+[2019.02.25-18.40.22:723][293]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-065263614F3C89A12C4B7B90CFFDF633
+[2019.02.25-18.40.22:728][293]LogExit: GameNetDriver None shut down
+[2019.02.25-18.40.22:729][293]LogExit: GameNetDriver None shut down
+[2019.02.25-18.40.22:741][293]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.40.22:807][294]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.02.25-18.40.22:807][294]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.02.25-18.40.22:807][294]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.02.25-18.40.26:519][516]LogSlate: Window 'Message Log' being destroyed
+[2019.02.25-18.40.26:525][516]LogSlate: Window 'Message Log' being destroyed
+[2019.02.25-18.40.27:545][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.41.17:551][524]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.25-18.41.19:511][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.41.19:610][630]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.02.25-18.41.19:636][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.41.19:636][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.25-18.41.19:636][630]PIE: New page: PIE session: Main (Feb 25, 2019, 8:41:19 AM)
+[2019.02.25-18.41.19:636][630]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Main
+[2019.02.25-18.41.19:639][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003173s)
+[2019.02.25-18.41.19:640][630]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.41.19:640][630]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2019.02.25-18.41.19:640][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_1_Main.Main (0.003797s)
+[2019.02.25-18.41.19:673][630]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.25-18.41.19:676][630]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Main.Main up for play (max tick rate 60) at 2019.02.25-13.41.19
+[2019.02.25-18.41.19:677][630]LogWorld: Bringing up level for play took: 0.003035
+[2019.02.25-18.41.19:677][630]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.41.19:677][630]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2019.02.25-18.41.19:677][630]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.41.19:677][630]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.02.25-18.41.19:677][630]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.02.25-18.41.19:677][630]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.02.25-18.41.19:678][630]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.41.19:678][630]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 17777
+[2019.02.25-18.41.19:678][630]LogTemp: Error: [FirstPersonCharacter2_5] TargetSystemComponent: Cannot get PlayerController reference ...
+[2019.02.25-18.41.19:678][630]LogTemp: Error: [FirstPersonCharacter3_8] TargetSystemComponent: Cannot get PlayerController reference ...
+[2019.02.25-18.41.19:678][630]LogTemp: Error: [FirstPersonCharacter_2] TargetSystemComponent: Cannot get PlayerController reference ...
+[2019.02.25-18.41.19:678][630]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_Main 0.686
+[2019.02.25-18.41.19:685][630]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.25-18.41.19:701][630]LogInit: FAudioDevice initialized.
+[2019.02.25-18.41.19:708][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.41.19:742][630]LogNet: Browse: 127.0.0.1:17777//Game/Maps/Main
+[2019.02.25-18.41.19:742][630]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.41.19:742][630]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2019.02.25-18.41.19:742][630]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.25-18.41.19:742][630]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.25-18.41.19:743][630]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.41.19:743][630]LogNet: Game client on port 17777, rate 10000
+[2019.02.25-18.41.19:747][630]PIE: Play in editor start time for /Game/Maps/Main 0.754
+[2019.02.25-18.41.19:751][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.41.19:755][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.41.19:791][630]LogNet: Browse: 127.0.0.1:17777//Game/Maps/Main
+[2019.02.25-18.41.19:791][630]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.41.19:791][630]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2019.02.25-18.41.19:791][630]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.25-18.41.19:791][630]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.25-18.41.19:792][630]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.41.19:792][630]LogNet: Game client on port 17777, rate 10000
+[2019.02.25-18.41.19:795][630]PIE: Play in editor start time for /Game/Maps/Main 0.803
+[2019.02.25-18.41.19:802][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.41.19:802][630]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56956
+[2019.02.25-18.41.19:802][630]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 062067163170095038172102034083192230113020054098143073202238
+[2019.02.25-18.41.19:802][630]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56957
+[2019.02.25-18.41.19:802][630]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 151190127119109251034014209041123024063077189021049112110032
+[2019.02.25-18.41.19:815][630]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 062067163170095038172102034083192230113020054098143073202238
+[2019.02.25-18.41.19:816][630]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 151190127119109251034014209041123024063077189021049112110032
+[2019.02.25-18.41.19:914][631]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56956
+[2019.02.25-18.41.19:914][631]LogHandshake: SendChallengeAck. InCookie: 062067163170095038172102034083192230113020054098143073202238
+[2019.02.25-18.41.19:914][631]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56956
+[2019.02.25-18.41.19:914][631]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.41.19:914][631]LogNet: NotifyAcceptedConnection: Name: Main, TimeStamp: 02/25/19 13:41:19, [UNetConnection] RemoteAddr: 127.0.0.1:56956, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.41.19:914][631]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56956, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.41.19:915][631]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56957
+[2019.02.25-18.41.19:915][631]LogHandshake: SendChallengeAck. InCookie: 151190127119109251034014209041123024063077189021049112110032
+[2019.02.25-18.41.19:915][631]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56957
+[2019.02.25-18.41.19:915][631]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.41.19:915][631]LogNet: NotifyAcceptedConnection: Name: Main, TimeStamp: 02/25/19 13:41:19, [UNetConnection] RemoteAddr: 127.0.0.1:56957, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.41.19:915][631]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56957, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.41.19:916][631]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.41.19:917][631]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.41.19:938][632]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Main.Main: Accepted
+[2019.02.25-18.41.19:938][632]LogNet: Remote platform little endian=1
+[2019.02.25-18.41.19:938][632]LogNet: This platform little endian=1
+[2019.02.25-18.41.19:939][632]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Main.Main: Accepted
+[2019.02.25-18.41.19:939][632]LogNet: Remote platform little endian=1
+[2019.02.25-18.41.19:939][632]LogNet: This platform little endian=1
+[2019.02.25-18.41.19:976][633]LogNet: Login request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-72BE39CE4CAC93968F5FA297867559BE userId: NULL:LAPTOP-E9JQ5VNQ-72BE39CE4CAC93968F5FA297867559BE platform: NULL
+[2019.02.25-18.41.19:977][633]LogNet: Login request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-10255C48499984F8249CE69D6983D623 userId: NULL:LAPTOP-E9JQ5VNQ-10255C48499984F8249CE69D6983D623 platform: NULL
+[2019.02.25-18.41.19:978][633]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Main, Game: /Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2019.02.25-18.41.19:979][633]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_Main?game=/Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2019.02.25-18.41.20:016][633]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.41.20:017][633]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.41.20:021][633]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Main.Main up for play (max tick rate 60) at 2019.02.25-13.41.20
+[2019.02.25-18.41.20:021][633]LogWorld: Bringing up level for play took: 0.003041
+[2019.02.25-18.41.20:021][633]LogLoad: Took 0.042494 seconds to LoadMap(/Game/Maps/UEDPIE_1_Main)
+[2019.02.25-18.41.20:022][633]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Main, Game: /Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2019.02.25-18.41.20:035][633]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_Main?game=/Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2019.02.25-18.41.20:071][633]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.41.20:072][633]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.41.20:075][633]LogWorld: Bringing World /Game/Maps/UEDPIE_3_Main.Main up for play (max tick rate 60) at 2019.02.25-13.41.20
+[2019.02.25-18.41.20:075][633]LogWorld: Bringing up level for play took: 0.002576
+[2019.02.25-18.41.20:075][633]LogLoad: Took 0.039791 seconds to LoadMap(/Game/Maps/UEDPIE_1_Main)
+[2019.02.25-18.41.20:088][634]LogNet: Client netspeed is 10000
+[2019.02.25-18.41.20:088][634]LogNet: Join request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-72BE39CE4CAC93968F5FA297867559BE?SplitscreenCount=1
+[2019.02.25-18.41.20:089][634]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.41.20:091][634]LogNet: Join succeeded: LAPTOP-E9JQ5VNQ-72BE
+[2019.02.25-18.41.20:091][634]LogNet: Client netspeed is 10000
+[2019.02.25-18.41.20:091][634]LogNet: Join request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-10255C48499984F8249CE69D6983D623?SplitscreenCount=1
+[2019.02.25-18.41.20:091][634]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.41.20:093][634]LogNet: Join succeeded: LAPTOP-E9JQ5VNQ-1025
+[2019.02.25-18.41.20:171][638]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.41.20:185][639]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.41.20:186][639]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.41.20:201][640]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.41.28:121][115]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2019.02.25-18.41.28:121][115]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2019.02.25-18.41.28:122][115]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56957, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_PC_C_1, Owner: BP_PC_C_1, UniqueId: NULL:LAPTOP-E9JQ5VNQ-10255C48499984F8249CE69D6983D623
+[2019.02.25-18.41.28:122][115]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56957, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_PC_C_1, Owner: BP_PC_C_1, UniqueId: NULL:LAPTOP-E9JQ5VNQ-10255C48499984F8249CE69D6983D623, Channels: 17, Time: 2019.02.25-18.41.28
+[2019.02.25-18.41.28:122][115]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56957, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_PC_C_1, Owner: BP_PC_C_1, UniqueId: NULL:LAPTOP-E9JQ5VNQ-10255C48499984F8249CE69D6983D623
+[2019.02.25-18.41.28:123][115]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56956, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-72BE39CE4CAC93968F5FA297867559BE
+[2019.02.25-18.41.28:123][115]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56956, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-72BE39CE4CAC93968F5FA297867559BE, Channels: 17, Time: 2019.02.25-18.41.28
+[2019.02.25-18.41.28:123][115]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56956, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-72BE39CE4CAC93968F5FA297867559BE
+[2019.02.25-18.41.28:123][115]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2019.02.25-18.41.28:123][115]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.41.28:123][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.41.28:138][115]LogSlate: Window 'MultiplayerTest Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.25-18.41.28:168][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.41.28:176][115]LogSlate: Window 'MultiplayerTest Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.25-18.41.28:217][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.25-18.41.28:217][115]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.41.28:246][115]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-10255C48499984F8249CE69D6983D623
+[2019.02.25-18.41.28:246][115]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-10255C48499984F8249CE69D6983D623, Channels: 2, Time: 2019.02.25-18.41.28
+[2019.02.25-18.41.28:246][115]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-10255C48499984F8249CE69D6983D623
+[2019.02.25-18.41.28:246][115]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-72BE39CE4CAC93968F5FA297867559BE
+[2019.02.25-18.41.28:246][115]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-72BE39CE4CAC93968F5FA297867559BE, Channels: 2, Time: 2019.02.25-18.41.28
+[2019.02.25-18.41.28:246][115]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-72BE39CE4CAC93968F5FA297867559BE
+[2019.02.25-18.41.28:250][115]LogExit: GameNetDriver None shut down
+[2019.02.25-18.41.28:250][115]LogExit: GameNetDriver None shut down
+[2019.02.25-18.41.28:265][116]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.02.25-18.41.28:265][116]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.02.25-18.41.28:265][116]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.02.25-18.41.29:919][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.42.17:244][959]LogSlate: Took 0.004972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.25-18.42.20:235][133]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.25-18.43.28:631][198]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.25-18.43.29:282][213]LogSavePackage: Moving '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Saved/FirstPersonCharacter328C511541A4CC9A5F14409979B01CBA.tmp' to '../../../../../../Users/welen/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/FirstPersonCharacter.uasset'
+[2019.02.25-18.43.30:297][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.43.33:617][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.43.33:748][479]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.02.25-18.43.33:774][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.43.33:774][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.25-18.43.33:774][479]PIE: New page: PIE session: Main (Feb 25, 2019, 8:43:33 AM)
+[2019.02.25-18.43.33:775][479]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Main
+[2019.02.25-18.43.33:778][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003070s)
+[2019.02.25-18.43.33:778][479]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.43.33:778][479]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2019.02.25-18.43.33:778][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_1_Main.Main (0.003700s)
+[2019.02.25-18.43.33:806][479]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.25-18.43.33:809][479]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Main.Main up for play (max tick rate 60) at 2019.02.25-13.43.33
+[2019.02.25-18.43.33:810][479]LogWorld: Bringing up level for play took: 0.003049
+[2019.02.25-18.43.33:810][479]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.43.33:810][479]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2019.02.25-18.43.33:810][479]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.43.33:810][479]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.02.25-18.43.33:810][479]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.02.25-18.43.33:810][479]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.02.25-18.43.33:811][479]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.43.33:811][479]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2019.02.25-18.43.33:811][479]LogTemp: Error: [FirstPersonCharacter2_5] TargetSystemComponent: Cannot get PlayerController reference ...
+[2019.02.25-18.43.33:811][479]LogTemp: Error: [FirstPersonCharacter3_8] TargetSystemComponent: Cannot get PlayerController reference ...
+[2019.02.25-18.43.33:811][479]LogTemp: Error: [FirstPersonCharacter_2] TargetSystemComponent: Cannot get PlayerController reference ...
+[2019.02.25-18.43.33:811][479]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_Main 0.82
+[2019.02.25-18.43.33:818][479]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.25-18.43.33:835][479]LogInit: FAudioDevice initialized.
+[2019.02.25-18.43.33:842][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.43.33:881][479]LogNet: Browse: 127.0.0.1:17777//Game/Maps/Main
+[2019.02.25-18.43.33:881][479]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.43.33:881][479]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2019.02.25-18.43.33:881][479]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.25-18.43.33:881][479]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.25-18.43.33:882][479]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.43.33:882][479]LogNet: Game client on port 17777, rate 10000
+[2019.02.25-18.43.33:885][479]PIE: Play in editor start time for /Game/Maps/Main 0.893
+[2019.02.25-18.43.33:891][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.43.33:894][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.43.33:931][479]LogNet: Browse: 127.0.0.1:17777//Game/Maps/Main
+[2019.02.25-18.43.33:931][479]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.43.33:931][479]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2019.02.25-18.43.33:931][479]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.25-18.43.33:931][479]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.25-18.43.33:932][479]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.43.33:932][479]LogNet: Game client on port 17777, rate 10000
+[2019.02.25-18.43.33:936][479]PIE: Play in editor start time for /Game/Maps/Main 0.944
+[2019.02.25-18.43.33:944][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.43.33:944][479]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63855
+[2019.02.25-18.43.33:944][479]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 211035104008131139177143174243040033098148006072056054089253
+[2019.02.25-18.43.33:944][479]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63856
+[2019.02.25-18.43.33:944][479]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 167084197126040208251057201079228186209187114007192055024100
+[2019.02.25-18.43.33:957][479]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 211035104008131139177143174243040033098148006072056054089253
+[2019.02.25-18.43.33:958][479]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 167084197126040208251057201079228186209187114007192055024100
+[2019.02.25-18.43.34:063][480]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63855
+[2019.02.25-18.43.34:063][480]LogHandshake: SendChallengeAck. InCookie: 211035104008131139177143174243040033098148006072056054089253
+[2019.02.25-18.43.34:063][480]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63855
+[2019.02.25-18.43.34:063][480]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.43.34:063][480]LogNet: NotifyAcceptedConnection: Name: Main, TimeStamp: 02/25/19 13:43:34, [UNetConnection] RemoteAddr: 127.0.0.1:63855, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.43.34:063][480]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63855, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.43.34:063][480]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63856
+[2019.02.25-18.43.34:063][480]LogHandshake: SendChallengeAck. InCookie: 167084197126040208251057201079228186209187114007192055024100
+[2019.02.25-18.43.34:063][480]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63856
+[2019.02.25-18.43.34:064][480]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.43.34:065][480]LogNet: NotifyAcceptedConnection: Name: Main, TimeStamp: 02/25/19 13:43:34, [UNetConnection] RemoteAddr: 127.0.0.1:63856, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.43.34:065][480]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63856, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.43.34:066][480]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.43.34:067][480]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: PendingNetDriver IpNetDriver_8, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.43.34:089][481]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Main.Main: Accepted
+[2019.02.25-18.43.34:089][481]LogNet: Remote platform little endian=1
+[2019.02.25-18.43.34:089][481]LogNet: This platform little endian=1
+[2019.02.25-18.43.34:089][481]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Main.Main: Accepted
+[2019.02.25-18.43.34:089][481]LogNet: Remote platform little endian=1
+[2019.02.25-18.43.34:089][481]LogNet: This platform little endian=1
+[2019.02.25-18.43.34:121][482]LogNet: Login request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-C3F00CD5412FE305E62E3CADFA1E5FD9 userId: NULL:LAPTOP-E9JQ5VNQ-C3F00CD5412FE305E62E3CADFA1E5FD9 platform: NULL
+[2019.02.25-18.43.34:121][482]LogNet: Login request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-41EBF5764CB1F4EB7FC0198AEF7B6A24 userId: NULL:LAPTOP-E9JQ5VNQ-41EBF5764CB1F4EB7FC0198AEF7B6A24 platform: NULL
+[2019.02.25-18.43.34:124][482]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Main, Game: /Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2019.02.25-18.43.34:125][482]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_Main?game=/Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2019.02.25-18.43.34:160][482]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.43.34:161][482]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.43.34:164][482]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Main.Main up for play (max tick rate 60) at 2019.02.25-13.43.34
+[2019.02.25-18.43.34:165][482]LogWorld: Bringing up level for play took: 0.003423
+[2019.02.25-18.43.34:165][482]LogLoad: Took 0.039907 seconds to LoadMap(/Game/Maps/UEDPIE_1_Main)
+[2019.02.25-18.43.34:165][482]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Main, Game: /Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2019.02.25-18.43.34:177][482]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_Main?game=/Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2019.02.25-18.43.34:211][482]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.43.34:211][482]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.43.34:214][482]LogWorld: Bringing World /Game/Maps/UEDPIE_3_Main.Main up for play (max tick rate 60) at 2019.02.25-13.43.34
+[2019.02.25-18.43.34:215][482]LogWorld: Bringing up level for play took: 0.002452
+[2019.02.25-18.43.34:215][482]LogLoad: Took 0.038107 seconds to LoadMap(/Game/Maps/UEDPIE_1_Main)
+[2019.02.25-18.43.34:228][483]LogNet: Client netspeed is 10000
+[2019.02.25-18.43.34:228][483]LogNet: Join request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-C3F00CD5412FE305E62E3CADFA1E5FD9?SplitscreenCount=1
+[2019.02.25-18.43.34:229][483]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.43.34:231][483]LogNet: Join succeeded: LAPTOP-E9JQ5VNQ-C3F0
+[2019.02.25-18.43.34:231][483]LogNet: Client netspeed is 10000
+[2019.02.25-18.43.34:231][483]LogNet: Join request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-41EBF5764CB1F4EB7FC0198AEF7B6A24?SplitscreenCount=1
+[2019.02.25-18.43.34:232][483]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.43.34:234][483]LogNet: Join succeeded: LAPTOP-E9JQ5VNQ-41EB
+[2019.02.25-18.43.34:316][488]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.43.34:319][488]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.43.34:350][490]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.43.34:351][490]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.43.42:901][  3]LogScript: Warning: Accessed None trying to read property HUDRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:08C4
+[2019.02.25-18.43.42:901][  3]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.43.42:901][  3]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:08D9
+[2019.02.25-18.43.42:901][  3]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.43.43:251][ 24]LogScript: Warning: Accessed None trying to read property HUDRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:08C4
+[2019.02.25-18.43.43:251][ 24]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.43.43:251][ 24]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:08D9
+[2019.02.25-18.43.43:251][ 24]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.43.43:451][ 36]LogScript: Warning: Accessed None trying to read property HUDRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:08C4
+[2019.02.25-18.43.43:451][ 36]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.43.43:451][ 36]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:08D9
+[2019.02.25-18.43.43:451][ 36]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.43.43:651][ 48]LogScript: Warning: Accessed None trying to read property HUDRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:08C4
+[2019.02.25-18.43.43:651][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.43.43:651][ 48]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:08D9
+[2019.02.25-18.43.43:651][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.43.43:952][ 66]LogScript: Warning: Accessed None trying to read property HUDRef
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_1_Main.Main:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:08C4
+[2019.02.25-18.43.43:952][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.43.43:952][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.43.44:152][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDRef". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.43.44:152][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Take Damage
+[2019.02.25-18.43.55:720][772]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2019.02.25-18.43.55:720][772]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2019.02.25-18.43.55:721][772]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63856, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PC_C_1, Owner: BP_PC_C_1, UniqueId: NULL:LAPTOP-E9JQ5VNQ-41EBF5764CB1F4EB7FC0198AEF7B6A24
+[2019.02.25-18.43.55:721][772]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63856, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PC_C_1, Owner: BP_PC_C_1, UniqueId: NULL:LAPTOP-E9JQ5VNQ-41EBF5764CB1F4EB7FC0198AEF7B6A24, Channels: 15, Time: 2019.02.25-18.43.55
+[2019.02.25-18.43.55:721][772]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63856, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PC_C_1, Owner: BP_PC_C_1, UniqueId: NULL:LAPTOP-E9JQ5VNQ-41EBF5764CB1F4EB7FC0198AEF7B6A24
+[2019.02.25-18.43.55:722][772]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63855, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-C3F00CD5412FE305E62E3CADFA1E5FD9
+[2019.02.25-18.43.55:722][772]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63855, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-C3F00CD5412FE305E62E3CADFA1E5FD9, Channels: 15, Time: 2019.02.25-18.43.55
+[2019.02.25-18.43.55:722][772]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63855, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-C3F00CD5412FE305E62E3CADFA1E5FD9
+[2019.02.25-18.43.55:723][772]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2019.02.25-18.43.55:723][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.43.55:723][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.43.55:734][772]LogSlate: Window 'MultiplayerTest Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.25-18.43.55:770][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.43.55:778][772]LogSlate: Window 'MultiplayerTest Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.25-18.43.55:824][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.25-18.43.55:824][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.43.55:857][772]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-41EBF5764CB1F4EB7FC0198AEF7B6A24
+[2019.02.25-18.43.55:857][772]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-41EBF5764CB1F4EB7FC0198AEF7B6A24, Channels: 2, Time: 2019.02.25-18.43.55
+[2019.02.25-18.43.55:857][772]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-41EBF5764CB1F4EB7FC0198AEF7B6A24
+[2019.02.25-18.43.55:857][772]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-C3F00CD5412FE305E62E3CADFA1E5FD9
+[2019.02.25-18.43.55:857][772]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-C3F00CD5412FE305E62E3CADFA1E5FD9, Channels: 2, Time: 2019.02.25-18.43.55
+[2019.02.25-18.43.55:858][772]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-C3F00CD5412FE305E62E3CADFA1E5FD9
+[2019.02.25-18.43.55:862][772]LogExit: GameNetDriver None shut down
+[2019.02.25-18.43.55:862][772]LogExit: GameNetDriver None shut down
+[2019.02.25-18.43.55:872][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.43.55:929][773]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.02.25-18.43.55:929][773]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.02.25-18.43.55:929][773]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.02.25-18.43.57:478][865]LogSlate: Window 'Message Log' being destroyed
+[2019.02.25-18.43.57:483][865]LogSlate: Window 'Message Log' being destroyed
+[2019.02.25-18.44.05:845][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.44.29:408][422]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/BP_HUD.BP_HUD
+[2019.02.25-18.45.39:966][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.46.02:324][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.46.17:358][710]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.25-18.46.31:107][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-18.46.31:223][522]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.02.25-18.46.31:244][522]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.46.31:244][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.25-18.46.31:245][522]PIE: New page: PIE session: Main (Feb 25, 2019, 8:46:31 AM)
+[2019.02.25-18.46.31:245][522]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Main
+[2019.02.25-18.46.31:248][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003198s)
+[2019.02.25-18.46.31:248][522]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.46.31:249][522]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2019.02.25-18.46.31:249][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_1_Main.Main (0.004007s)
+[2019.02.25-18.46.31:282][522]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.25-18.46.31:285][522]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Main.Main up for play (max tick rate 60) at 2019.02.25-13.46.31
+[2019.02.25-18.46.31:286][522]LogWorld: Bringing up level for play took: 0.002896
+[2019.02.25-18.46.31:286][522]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.46.31:286][522]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2019.02.25-18.46.31:286][522]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.46.31:286][522]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.02.25-18.46.31:286][522]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.02.25-18.46.31:286][522]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.02.25-18.46.31:287][522]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.46.31:287][522]LogNet: GameNetDriver IpNetDriver_9 IpNetDriver listening on port 17777
+[2019.02.25-18.46.31:287][522]LogTemp: Error: [FirstPersonCharacter2_5] TargetSystemComponent: Cannot get PlayerController reference ...
+[2019.02.25-18.46.31:287][522]LogTemp: Error: [FirstPersonCharacter3_8] TargetSystemComponent: Cannot get PlayerController reference ...
+[2019.02.25-18.46.31:288][522]LogTemp: Error: [FirstPersonCharacter_2] TargetSystemComponent: Cannot get PlayerController reference ...
+[2019.02.25-18.46.31:288][522]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_Main 0.296
+[2019.02.25-18.46.31:294][522]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.25-18.46.31:311][522]LogInit: FAudioDevice initialized.
+[2019.02.25-18.46.31:317][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.46.31:357][522]LogNet: Browse: 127.0.0.1:17777//Game/Maps/Main
+[2019.02.25-18.46.31:357][522]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.46.31:357][522]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2019.02.25-18.46.31:357][522]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.25-18.46.31:357][522]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.25-18.46.31:358][522]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.46.31:358][522]LogNet: Game client on port 17777, rate 10000
+[2019.02.25-18.46.31:362][522]PIE: Play in editor start time for /Game/Maps/Main 0.37
+[2019.02.25-18.46.31:367][522]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.46.31:373][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.46.31:409][522]LogNet: Browse: 127.0.0.1:17777//Game/Maps/Main
+[2019.02.25-18.46.31:409][522]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.46.31:409][522]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2019.02.25-18.46.31:409][522]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.25-18.46.31:409][522]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.25-18.46.31:410][522]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.46.31:410][522]LogNet: Game client on port 17777, rate 10000
+[2019.02.25-18.46.31:414][522]PIE: Play in editor start time for /Game/Maps/Main 0.422
+[2019.02.25-18.46.31:419][522]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.46.31:420][522]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50378
+[2019.02.25-18.46.31:420][522]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 237201240128071034207121255147100030021021154129197055245001
+[2019.02.25-18.46.31:420][522]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50379
+[2019.02.25-18.46.31:420][522]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 194094166206085154011098038170112030108090044155007040120172
+[2019.02.25-18.46.31:433][522]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 237201240128071034207121255147100030021021154129197055245001
+[2019.02.25-18.46.31:434][522]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 194094166206085154011098038170112030108090044155007040120172
+[2019.02.25-18.46.31:563][523]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50378
+[2019.02.25-18.46.31:563][523]LogHandshake: SendChallengeAck. InCookie: 237201240128071034207121255147100030021021154129197055245001
+[2019.02.25-18.46.31:564][523]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50378
+[2019.02.25-18.46.31:564][523]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.46.31:564][523]LogNet: NotifyAcceptedConnection: Name: Main, TimeStamp: 02/25/19 13:46:31, [UNetConnection] RemoteAddr: 127.0.0.1:50378, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.46.31:564][523]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50378, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.46.31:564][523]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50379
+[2019.02.25-18.46.31:564][523]LogHandshake: SendChallengeAck. InCookie: 194094166206085154011098038170112030108090044155007040120172
+[2019.02.25-18.46.31:564][523]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50379
+[2019.02.25-18.46.31:564][523]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.25-18.46.31:564][523]LogNet: NotifyAcceptedConnection: Name: Main, TimeStamp: 02/25/19 13:46:31, [UNetConnection] RemoteAddr: 127.0.0.1:50379, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.46.31:564][523]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50379, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.46.31:565][523]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: PendingNetDriver IpNetDriver_10, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.46.31:566][523]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_13, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.25-18.46.31:576][524]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Main.Main: Accepted
+[2019.02.25-18.46.31:576][524]LogNet: Remote platform little endian=1
+[2019.02.25-18.46.31:576][524]LogNet: This platform little endian=1
+[2019.02.25-18.46.31:576][524]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Main.Main: Accepted
+[2019.02.25-18.46.31:576][524]LogNet: Remote platform little endian=1
+[2019.02.25-18.46.31:576][524]LogNet: This platform little endian=1
+[2019.02.25-18.46.31:613][525]LogNet: Login request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-78D1143B4A964292AF980CB53DEF9A42 userId: NULL:LAPTOP-E9JQ5VNQ-78D1143B4A964292AF980CB53DEF9A42 platform: NULL
+[2019.02.25-18.46.31:614][525]LogNet: Login request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-5C89DADB4CBF4F282DB42EB2C7A18F19 userId: NULL:LAPTOP-E9JQ5VNQ-5C89DADB4CBF4F282DB42EB2C7A18F19 platform: NULL
+[2019.02.25-18.46.31:615][525]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Main, Game: /Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2019.02.25-18.46.31:615][525]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_Main?game=/Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2019.02.25-18.46.31:656][525]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.46.31:657][525]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.46.31:661][525]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Main.Main up for play (max tick rate 60) at 2019.02.25-13.46.31
+[2019.02.25-18.46.31:661][525]LogWorld: Bringing up level for play took: 0.003840
+[2019.02.25-18.46.31:662][525]LogLoad: Took 0.046458 seconds to LoadMap(/Game/Maps/UEDPIE_1_Main)
+[2019.02.25-18.46.31:662][525]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Main, Game: /Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2019.02.25-18.46.31:676][525]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_Main?game=/Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2019.02.25-18.46.31:713][525]LogAIModule: Creating AISystem for world Main
+[2019.02.25-18.46.31:713][525]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.25-18.46.31:717][525]LogWorld: Bringing World /Game/Maps/UEDPIE_3_Main.Main up for play (max tick rate 60) at 2019.02.25-13.46.31
+[2019.02.25-18.46.31:717][525]LogWorld: Bringing up level for play took: 0.002723
+[2019.02.25-18.46.31:717][525]LogLoad: Took 0.041529 seconds to LoadMap(/Game/Maps/UEDPIE_1_Main)
+[2019.02.25-18.46.31:766][526]LogNet: Client netspeed is 10000
+[2019.02.25-18.46.31:766][526]LogNet: Join request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-78D1143B4A964292AF980CB53DEF9A42?SplitscreenCount=1
+[2019.02.25-18.46.31:766][526]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.46.31:769][526]LogNet: Join succeeded: LAPTOP-E9JQ5VNQ-78D1
+[2019.02.25-18.46.31:769][526]LogNet: Client netspeed is 10000
+[2019.02.25-18.46.31:769][526]LogNet: Join request: /Game/Maps/Main?Name=LAPTOP-E9JQ5VNQ-5C89DADB4CBF4F282DB42EB2C7A18F19?SplitscreenCount=1
+[2019.02.25-18.46.31:769][526]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.46.31:771][526]LogNet: Join succeeded: LAPTOP-E9JQ5VNQ-5C89
+[2019.02.25-18.46.31:803][528]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.46.31:806][528]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.46.31:821][529]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.46.31:835][530]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.25-18.46.40:861][ 68]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2019.02.25-18.46.40:861][ 68]LogNet: DestroyNamedNetDriver IpNetDriver_9 [GameNetDriver]
+[2019.02.25-18.46.40:862][ 68]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50379, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: BP_PC_C_1, Owner: BP_PC_C_1, UniqueId: NULL:LAPTOP-E9JQ5VNQ-5C89DADB4CBF4F282DB42EB2C7A18F19
+[2019.02.25-18.46.40:862][ 68]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50379, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: BP_PC_C_1, Owner: BP_PC_C_1, UniqueId: NULL:LAPTOP-E9JQ5VNQ-5C89DADB4CBF4F282DB42EB2C7A18F19, Channels: 15, Time: 2019.02.25-18.46.40
+[2019.02.25-18.46.40:862][ 68]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50379, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: BP_PC_C_1, Owner: BP_PC_C_1, UniqueId: NULL:LAPTOP-E9JQ5VNQ-5C89DADB4CBF4F282DB42EB2C7A18F19
+[2019.02.25-18.46.40:862][ 68]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50378, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-78D1143B4A964292AF980CB53DEF9A42
+[2019.02.25-18.46.40:862][ 68]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50378, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-78D1143B4A964292AF980CB53DEF9A42, Channels: 15, Time: 2019.02.25-18.46.40
+[2019.02.25-18.46.40:862][ 68]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50378, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: BP_PC_C_0, Owner: BP_PC_C_0, UniqueId: NULL:LAPTOP-E9JQ5VNQ-78D1143B4A964292AF980CB53DEF9A42
+[2019.02.25-18.46.40:863][ 68]LogExit: GameNetDriver IpNetDriver_9 shut down
+[2019.02.25-18.46.40:863][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.46.40:863][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.46.40:874][ 68]LogSlate: Window 'MultiplayerTest Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.25-18.46.40:904][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-18.46.40:912][ 68]LogSlate: Window 'MultiplayerTest Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.25-18.46.40:952][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.25-18.46.40:952][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.02.25-18.46.40:984][ 68]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-5C89DADB4CBF4F282DB42EB2C7A18F19
+[2019.02.25-18.46.40:984][ 68]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-5C89DADB4CBF4F282DB42EB2C7A18F19, Channels: 2, Time: 2019.02.25-18.46.40
+[2019.02.25-18.46.40:985][ 68]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-5C89DADB4CBF4F282DB42EB2C7A18F19
+[2019.02.25-18.46.40:985][ 68]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_10, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-78D1143B4A964292AF980CB53DEF9A42
+[2019.02.25-18.46.40:985][ 68]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_10, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-78D1143B4A964292AF980CB53DEF9A42, Channels: 2, Time: 2019.02.25-18.46.40
+[2019.02.25-18.46.40:985][ 68]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_10, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:LAPTOP-E9JQ5VNQ-78D1143B4A964292AF980CB53DEF9A42
+[2019.02.25-18.46.40:988][ 68]LogExit: GameNetDriver None shut down
+[2019.02.25-18.46.40:988][ 68]LogExit: GameNetDriver None shut down
+[2019.02.25-18.46.41:003][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.02.25-18.46.41:003][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.02.25-18.46.41:003][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.02.25-18.46.46:244][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-18.46.57:407][924]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.25-18.47.08:335][548]Cmd: TRANSACTION UNDO
+[2019.02.25-18.47.08:335][548]LogEditorTransaction: Undo Reset to Default
+[2019.02.25-18.47.08:335][548]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.25-18.47.18:824][548]LogStats: FPlatformStackWalk::StackWalkAndDump - 10.488 s
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: 
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: 
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: Stack: 
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93d9885e8 UE4Editor-Engine.dll!UEdGraphPin::SanitizePinsPostUndoRedo() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:2105]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93aa3fe32 UE4Editor-UnrealEd.dll!UEditorEngine::BroadcastPostUndoRedo() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:5111]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93aa6acf6 UE4Editor-UnrealEd.dll!UEditorEngine::HandleTransactorRedoUndo() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:1195]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93aa5140c UE4Editor-UnrealEd.dll!TBaseUObjectMethodDelegateInstance<0,UEditorEngine,void __cdecl(FTransactionContext const & __ptr64,bool)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:679]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93aabb427 UE4Editor-UnrealEd.dll!TBaseMulticastDelegate<void,FTransactionContext const & __ptr64,bool>::Broadcast() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:974]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93aaff72f UE4Editor-UnrealEd.dll!UTransBuffer::Undo() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editortransaction.cpp:1341]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93aa9726f UE4Editor-UnrealEd.dll!UEditorEngine::UndoTransaction() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:1410]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93aa50b4c UE4Editor-UnrealEd.dll!UEditorEngine::Exec_Transaction() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:5102]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93aa4a786 UE4Editor-UnrealEd.dll!UEditorEngine::Exec() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:5548]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93b350b33 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Exec() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\unrealedsrv.cpp:691]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff92c9f773e UE4Editor-MainFrame.dll!FMainFrameActionCallbacks::ExecuteExecCommand() [d:\build\++ue4\sync\engine\source\editor\mainframe\private\frame\mainframeactions.cpp:1010]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff92c9f7b5e UE4Editor-MainFrame.dll!TBaseStaticDelegateInstance<void __cdecl(void),FString>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:813]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93c1a206f UE4Editor-Slate.dll!FUICommandList::ConditionalProcessCommandBindings() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:216]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93c1e4c8e UE4Editor-Slate.dll!FUICommandList::ProcessCommandBindings() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:160]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff92ca07562 UE4Editor-MainFrame.dll!FMainFrameActionCallbacks::OnUnhandledKeyDownEvent() [d:\build\++ue4\sync\engine\source\editor\mainframe\private\frame\mainframeactions.cpp:220]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff92c9f75e9 UE4Editor-MainFrame.dll!TBaseStaticDelegateInstance<FReply __cdecl(FKeyEvent const & __ptr64)>::Execute() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:760]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93c1e69f9 UE4Editor-Slate.dll!FSlateApplication::ProcessKeyDownEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5110]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff93c1d9a36 UE4Editor-Slate.dll!FSlateApplication::OnKeyDown() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5009]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff9a59cdaa4 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1666]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff9a59c0de0 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2281]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff9a59d01eb UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:929]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff9a59bca19 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:766]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff9c41a6d41 USER32.dll!UnknownFunction []
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff9c41a6713 USER32.dll!UnknownFunction []
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff9a59d1746 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff7d4185546 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3615]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff7d419596c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:174]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff7d41959ea UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff7d41a48da UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:276]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff7d41a659a UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff9c4773dc4 KERNEL32.DLL!UnknownFunction []
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: [Callstack] 0x00007ff9c4923691 ntdll.dll!UnknownFunction []
+[2019.02.25-18.47.18:824][548]LogOutputDevice: Error: 
+[2019.02.25-18.47.18:831][548]LogStats:                SubmitErrorReport -  0.000 s
