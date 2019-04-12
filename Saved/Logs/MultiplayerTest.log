@@ -1637,3 +1637,563 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.12-00.41.56:136][206]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Main3814ADAD43BE2C911931BCBF2D982EFE.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Main.umap'
 [2019.04.12-00.41.56:208][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Main_BuiltData.uasset" SILENT=true
 [2019.04.12-00.41.56:243][206]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Main_BuiltData1D822441416DE7AEBE5528ACC950D219.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Main_BuiltData.uasset'
+[2019.04.12-00.44.13:394][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-00.44.21:817][403]LogTexture: Display: Building textures: grass_alpha_rgm (AutoDXT, 2048X1024)
+[2019.04.12-00.44.21:817][403]LogTexture: Display: Building textures: grass_alpha_nrm (BC5, 2048X1024)
+[2019.04.12-00.44.21:817][403]LogTexture: Display: Building textures: grass_alpha_bsm (AutoDXT, 2048X1024)
+[2019.04.12-00.44.21:817][403]LogMaterial: Display: Missing cached shader map for material master_foliage, compiling. 
+[2019.04.12-00.44.21:960][403]LogMaterial: Display: Missing cached shader map for material master_foliage, compiling. 
+[2019.04.12-00.44.22:037][403]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.04.12-00.44.22:037][403]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.04.12-00.44.22:037][403]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.04.12-00.44.22:037][403]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.04.12-00.44.22:037][403]LogMaterial: Display: Missing cached shader map for material master_foliage, compiling. 
+[2019.04.12-00.44.22:133][403]LogStaticMesh: Building static mesh grass_small_01...
+[2019.04.12-00.44.22:175][403]LogStaticMesh: Built static mesh [0.04s] /Game/ProceduralNaturePack/Meshes/grass/grass_small_01.grass_small_01
+[2019.04.12-00.44.27:887][851]LogShaderCompilers: Display: Shaders left to compile 311
+[2019.04.12-00.44.30:194][ 43]LogShaderCompilers: Display: Shaders left to compile 301
+[2019.04.12-00.44.30:339][ 55]LogShaderCompilers: Display: Shaders left to compile 291
+[2019.04.12-00.44.31:877][183]LogShaderCompilers: Display: Shaders left to compile 281
+[2019.04.12-00.44.40:179][645]LogShaderCompilers: Display: Shaders left to compile 271
+[2019.04.12-00.44.41:462][705]LogShaderCompilers: Display: Shaders left to compile 261
+[2019.04.12-00.44.41:767][719]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.12-00.44.42:298][751]LogShaderCompilers: Display: Shaders left to compile 251
+[2019.04.12-00.44.44:189][857]LogShaderCompilers: Display: Shaders left to compile 241
+[2019.04.12-00.44.48:342][ 51]LogShaderCompilers: Display: Shaders left to compile 231
+[2019.04.12-00.44.53:238][274]LogShaderCompilers: Display: Shaders left to compile 221
+[2019.04.12-00.44.53:504][289]LogShaderCompilers: Display: Shaders left to compile 211
+[2019.04.12-00.44.53:805][305]LogShaderCompilers: Display: Shaders left to compile 201
+[2019.04.12-00.44.54:281][330]LogShaderCompilers: Display: Shaders left to compile 191
+[2019.04.12-00.44.57:288][485]LogShaderCompilers: Display: Shaders left to compile 181
+[2019.04.12-00.44.58:154][532]LogShaderCompilers: Display: Shaders left to compile 171
+[2019.04.12-00.45.00:406][650]LogShaderCompilers: Display: Shaders left to compile 161
+[2019.04.12-00.45.01:881][728]LogShaderCompilers: Display: Shaders left to compile 151
+[2019.04.12-00.45.02:718][772]LogShaderCompilers: Display: Shaders left to compile 141
+[2019.04.12-00.45.02:887][781]LogShaderCompilers: Display: Shaders left to compile 131
+[2019.04.12-00.45.05:064][895]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.04.12-00.45.06:207][955]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.04.12-00.45.10:350][166]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.04.12-00.45.10:389][168]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.04.12-00.45.10:452][171]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.04.12-00.45.10:571][175]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.04.12-00.45.14:805][484]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.04.12-00.45.14:951][495]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.04.12-00.45.17:556][696]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.04.12-00.45.18:425][765]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.04.12-00.45.19:862][880]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.12-00.45.20:152][903]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.12-00.45.22:532][ 91]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.12-00.46.19:754][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-00.46.19:853][702]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.12-00.46.19:886][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.04.12-00.46.19:886][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-00.46.19:886][702]PIE: New page: PIE session: Main (Apr 11, 2019, 4:46:19 PM)
+[2019.04.12-00.46.19:886][702]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Main
+[2019.04.12-00.46.20:021][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.134751s)
+[2019.04.12-00.46.20:022][702]LogAIModule: Creating AISystem for world Main
+[2019.04.12-00.46.20:022][702]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2019.04.12-00.46.20:022][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_1_Main.Main (0.136193s)
+[2019.04.12-00.46.20:104][702]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.12-00.46.20:118][702]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Main.Main up for play (max tick rate 0) at 2019.04.11-20.46.20
+[2019.04.12-00.46.20:119][702]LogWorld: Bringing up level for play took: 0.013744
+[2019.04.12-00.46.20:119][702]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.12-00.46.20:119][702]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2019.04.12-00.46.20:119][702]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.12-00.46.20:120][702]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.04.12-00.46.20:120][702]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.04.12-00.46.20:120][702]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.04.12-00.46.20:120][702]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.12-00.46.20:121][702]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2019.04.12-00.46.20:157][702]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_Main 0.05
+[2019.04.12-00.46.20:270][702]LogInit: XAudio2 using 'Speakers (C-Media USB Audio Device   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.12-00.46.20:293][702]LogInit: FAudioDevice initialized.
+[2019.04.12-00.46.20:303][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-00.46.20:348][702]LogNet: Browse: 127.0.0.1:17777//Game/Maps/Main
+[2019.04.12-00.46.20:348][702]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.12-00.46.20:348][702]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2019.04.12-00.46.20:348][702]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.04.12-00.46.20:348][702]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.04.12-00.46.20:349][702]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.12-00.46.20:349][702]LogNet: Game client on port 17777, rate 10000
+[2019.04.12-00.46.20:357][702]PIE: Play in editor start time for /Game/Maps/Main 0.251
+[2019.04.12-00.46.20:362][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.12-00.46.20:368][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-00.46.20:410][702]LogNet: Browse: 127.0.0.1:17777//Game/Maps/Main
+[2019.04.12-00.46.20:410][702]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.12-00.46.20:410][702]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2019.04.12-00.46.20:410][702]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.04.12-00.46.20:410][702]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.04.12-00.46.20:411][702]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.12-00.46.20:411][702]LogNet: Game client on port 17777, rate 10000
+[2019.04.12-00.46.20:419][702]PIE: Play in editor start time for /Game/Maps/Main 0.313
+[2019.04.12-00.46.20:428][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.04.12-00.46.20:428][702]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51696
+[2019.04.12-00.46.20:428][702]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 100071066038144186135186228056113151255200153063138134178072
+[2019.04.12-00.46.20:428][702]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51697
+[2019.04.12-00.46.20:428][702]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 216142185084041099236164118225160209049025107153161200152120
+[2019.04.12-00.46.20:444][702]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 100071066038144186135186228056113151255200153063138134178072
+[2019.04.12-00.46.20:445][702]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 216142185084041099236164118225160209049025107153161200152120
+[2019.04.12-00.46.20:555][703]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51696
+[2019.04.12-00.46.20:555][703]LogHandshake: SendChallengeAck. InCookie: 100071066038144186135186228056113151255200153063138134178072
+[2019.04.12-00.46.20:555][703]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51696
+[2019.04.12-00.46.20:556][703]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.12-00.46.20:556][703]LogNet: NotifyAcceptedConnection: Name: Main, TimeStamp: 04/11/19 20:46:20, [UNetConnection] RemoteAddr: 127.0.0.1:51696, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.12-00.46.20:556][703]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51696, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.12-00.46.20:556][703]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51697
+[2019.04.12-00.46.20:556][703]LogHandshake: SendChallengeAck. InCookie: 216142185084041099236164118225160209049025107153161200152120
+[2019.04.12-00.46.20:556][703]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51697
+[2019.04.12-00.46.20:557][703]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.12-00.46.20:557][703]LogNet: NotifyAcceptedConnection: Name: Main, TimeStamp: 04/11/19 20:46:20, [UNetConnection] RemoteAddr: 127.0.0.1:51697, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.12-00.46.20:557][703]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51697, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.12-00.46.20:559][703]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.12-00.46.20:559][703]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: PendingNetDriver IpNetDriver_8, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.12-00.46.20:583][704]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Main.Main: Accepted
+[2019.04.12-00.46.20:583][704]LogNet: Remote platform little endian=1
+[2019.04.12-00.46.20:583][704]LogNet: This platform little endian=1
+[2019.04.12-00.46.20:583][704]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Main.Main: Accepted
+[2019.04.12-00.46.20:584][704]LogNet: Remote platform little endian=1
+[2019.04.12-00.46.20:584][704]LogNet: This platform little endian=1
+[2019.04.12-00.46.20:620][705]LogNet: Login request: /Game/Maps/Main?Name=Doug-PC-F606F42D44FD8AD515483882474C03C4 userId: NULL:Doug-PC-F606F42D44FD8AD515483882474C03C4 platform: NULL
+[2019.04.12-00.46.20:620][705]LogNet: Login request: /Game/Maps/Main?Name=Doug-PC-3AABB9674842EE5A062E2DB65BA4FB15 userId: NULL:Doug-PC-3AABB9674842EE5A062E2DB65BA4FB15 platform: NULL
+[2019.04.12-00.46.20:622][705]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Main, Game: /Game/Blueprints/Character/FirstPersonGameMode.FirstPersonGameMode_C)
+[2019.04.12-00.46.20:627][705]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_Main?game=/Game/Blueprints/Character/FirstPersonGameMode.FirstPersonGameMode_C
+[2019.04.12-00.46.20:861][705]LogAIModule: Creating AISystem for world Main
+[2019.04.12-00.46.20:862][705]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.12-00.46.20:877][705]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Main.Main up for play (max tick rate 0) at 2019.04.11-20.46.20
+[2019.04.12-00.46.20:878][705]LogWorld: Bringing up level for play took: 0.014345
+[2019.04.12-00.46.20:878][705]LogLoad: Took 0.250935 seconds to LoadMap(/Game/Maps/UEDPIE_1_Main)
+[2019.04.12-00.46.20:879][705]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Main, Game: /Game/Blueprints/Character/FirstPersonGameMode.FirstPersonGameMode_C)
+[2019.04.12-00.46.20:906][705]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_Main?game=/Game/Blueprints/Character/FirstPersonGameMode.FirstPersonGameMode_C
+[2019.04.12-00.46.21:140][705]LogAIModule: Creating AISystem for world Main
+[2019.04.12-00.46.21:140][705]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.12-00.46.21:155][705]LogWorld: Bringing World /Game/Maps/UEDPIE_3_Main.Main up for play (max tick rate 0) at 2019.04.11-20.46.21
+[2019.04.12-00.46.21:156][705]LogWorld: Bringing up level for play took: 0.014525
+[2019.04.12-00.46.21:156][705]LogLoad: Took 0.250232 seconds to LoadMap(/Game/Maps/UEDPIE_1_Main)
+[2019.04.12-00.46.21:181][706]LogNet: Client netspeed is 10000
+[2019.04.12-00.46.21:181][706]LogNet: Join request: /Game/Maps/Main?Name=Doug-PC-F606F42D44FD8AD515483882474C03C4?SplitscreenCount=1
+[2019.04.12-00.46.21:182][706]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.12-00.46.21:187][706]LogNet: Join succeeded: Doug-PC-F606F42D44FD
+[2019.04.12-00.46.21:187][706]LogNet: Client netspeed is 10000
+[2019.04.12-00.46.21:187][706]LogNet: Join request: /Game/Maps/Main?Name=Doug-PC-3AABB9674842EE5A062E2DB65BA4FB15?SplitscreenCount=1
+[2019.04.12-00.46.21:187][706]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.12-00.46.21:192][706]LogNet: Join succeeded: Doug-PC-3AABB9674842
+[2019.04.12-00.46.21:270][707]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.12-00.46.21:308][707]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.12-00.46.21:319][707]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.12-00.46.21:320][707]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.12-00.46.27:318][  0]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.46.28:068][ 37]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.46.42:792][768]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.46.43:537][804]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.46.44:289][840]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.46.53:897][265]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.46.54:615][300]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.47.00:650][585]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.47.01:388][621]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.47.02:330][656]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.47.03:077][693]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.47.03:803][729]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.47.04:858][781]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.47.05:589][817]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_PlayerCharacter_C_1. Function ServerSprintOn will not be processed.
+[2019.04.12-00.47.08:498][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.08:503][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.08:507][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.08:914][974]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.08:917][974]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.08:919][974]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.09:187][987]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.09:190][987]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.09:194][987]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.09:396][997]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.09:398][997]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.09:401][997]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.09:541][  4]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.09:545][  4]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.09:548][  4]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2019.04.12-00.47.13:255][187]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2019.04.12-00.47.13:256][187]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2019.04.12-00.47.13:256][187]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51697, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:Doug-PC-3AABB9674842EE5A062E2DB65BA4FB15
+[2019.04.12-00.47.13:256][187]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51697, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:Doug-PC-3AABB9674842EE5A062E2DB65BA4FB15, Channels: 47, Time: 2019.04.12-00.47.13
+[2019.04.12-00.47.13:256][187]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51697, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:Doug-PC-3AABB9674842EE5A062E2DB65BA4FB15
+[2019.04.12-00.47.13:257][187]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51696, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:Doug-PC-F606F42D44FD8AD515483882474C03C4
+[2019.04.12-00.47.13:257][187]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51696, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:Doug-PC-F606F42D44FD8AD515483882474C03C4, Channels: 47, Time: 2019.04.12-00.47.13
+[2019.04.12-00.47.13:257][187]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51696, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:Doug-PC-F606F42D44FD8AD515483882474C03C4
+[2019.04.12-00.47.13:258][187]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2019.04.12-00.47.13:258][187]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.04.12-00.47.13:258][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-00.47.13:294][187]LogSlate: Window 'MultiplayerTest Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.12-00.47.13:331][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-00.47.13:357][187]LogSlate: Window 'MultiplayerTest Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.12-00.47.13:399][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-00.47.13:399][187]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.04.12-00.47.13:505][187]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:Doug-PC-3AABB9674842EE5A062E2DB65BA4FB15
+[2019.04.12-00.47.13:505][187]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:Doug-PC-3AABB9674842EE5A062E2DB65BA4FB15, Channels: 46, Time: 2019.04.12-00.47.13
+[2019.04.12-00.47.13:505][187]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:Doug-PC-3AABB9674842EE5A062E2DB65BA4FB15
+[2019.04.12-00.47.13:505][187]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:Doug-PC-F606F42D44FD8AD515483882474C03C4
+[2019.04.12-00.47.13:505][187]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:Doug-PC-F606F42D44FD8AD515483882474C03C4, Channels: 7, Time: 2019.04.12-00.47.13
+[2019.04.12-00.47.13:505][187]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:Doug-PC-F606F42D44FD8AD515483882474C03C4
+[2019.04.12-00.47.13:525][187]LogExit: GameNetDriver None shut down
+[2019.04.12-00.47.13:525][187]LogExit: GameNetDriver None shut down
+[2019.04.12-00.47.13:571][188]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.12-00.47.13:571][188]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.04.12-00.47.13:571][188]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.04.12-00.47.15:506][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.12-00.47.17:281][342]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Main027DD18245CE1E7371473EA555BE50C1.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Main.umap'
+[2019.04.12-00.47.17:344][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2019.04.12-00.47.17:377][342]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Main_BuiltData824610B847721235AB4289BB72A4F38C.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Main_BuiltData.uasset'
+[2019.04.12-00.47.32:463][376]LogSlate: Window 'Save Content' being destroyed
+[2019.04.12-00.47.32:513][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Materials/MAT_Terrain1" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Materials/MAT_Terrain1.uasset" SILENT=true
+[2019.04.12-00.47.32:557][376]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/MAT_Terrain1B9F6F7AD4B87295C3E67948A7CCEF647.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Materials/MAT_Terrain1.uasset'
+[2019.04.12-00.47.32:587][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Textures/GrassBase_Albedo" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/GrassBase_Albedo.uasset" SILENT=true
+[2019.04.12-00.47.33:478][376]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/GrassBase_Albedo8DE6550243475E1FE4F975B527DEC577.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/GrassBase_Albedo.uasset'
+[2019.04.12-00.47.33:503][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Textures/GrassBase_AO" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/GrassBase_AO.uasset" SILENT=true
+[2019.04.12-00.47.34:071][376]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/GrassBase_AOB24645FE4E7141CC505C55ADF2DB99B4.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/GrassBase_AO.uasset'
+[2019.04.12-00.47.34:101][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Textures/GrassBase_Displacement" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/GrassBase_Displacement.uasset" SILENT=true
+[2019.04.12-00.47.34:658][376]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/GrassBase_DisplacementAC1CCCD54AFDD800E2F094A8284B6AA7.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/GrassBase_Displacement.uasset'
+[2019.04.12-00.47.34:678][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Textures/GrassBase_Gloss" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/GrassBase_Gloss.uasset" SILENT=true
+[2019.04.12-00.47.35:265][376]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/GrassBase_GlossDDB245DA49A8AB507CEF09B5B43249BD.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/GrassBase_Gloss.uasset'
+[2019.04.12-00.47.35:290][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Textures/GrassBase_Normal" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/GrassBase_Normal.uasset" SILENT=true
+[2019.04.12-00.47.36:528][376]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/GrassBase_NormalF3733749418F417627D07393E21C2EBB.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/GrassBase_Normal.uasset'
+[2019.04.12-00.47.36:551][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Textures/GrassBase_Roughness" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/GrassBase_Roughness.uasset" SILENT=true
+[2019.04.12-00.47.37:116][376]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/GrassBase_Roughness2602308043843E6243432CA2715B61C5.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/GrassBase_Roughness.uasset'
+[2019.04.12-00.47.37:122][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Textures/TiledFloor_Albedo" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/TiledFloor_Albedo.uasset" SILENT=true
+[2019.04.12-00.47.37:622][376]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/TiledFloor_AlbedoC34A1D35416CE855CC9E3CB0212932AB.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/TiledFloor_Albedo.uasset'
+[2019.04.12-00.47.37:633][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Textures/TiledFloor_AO" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/TiledFloor_AO.uasset" SILENT=true
+[2019.04.12-00.47.37:949][376]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/TiledFloor_AO641D8907484C062BB1DB04ACE184874E.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/TiledFloor_AO.uasset'
+[2019.04.12-00.47.37:961][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Textures/TiledFloor_Gloss" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/TiledFloor_Gloss.uasset" SILENT=true
+[2019.04.12-00.47.38:300][376]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/TiledFloor_Gloss232C3A4041EE717CE0FA359DFB56990C.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/TiledFloor_Gloss.uasset'
+[2019.04.12-00.47.38:310][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Textures/TiledFloor_Normal" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/TiledFloor_Normal.uasset" SILENT=true
+[2019.04.12-00.47.38:943][376]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/TiledFloor_NormalD5CDC490412A33D2DFE65D981F21B4D4.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/TiledFloor_Normal.uasset'
+[2019.04.12-00.47.38:960][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Textures/TiledFloor_Roughness" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/TiledFloor_Roughness.uasset" SILENT=true
+[2019.04.12-00.47.39:299][376]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/TiledFloor_Roughness95A4E0314B0333C10083B1BDF22BFF5F.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Textures/TiledFloor_Roughness.uasset'
+[2019.04.12-00.47.39:459][376]LogSlate: Window 'MAT_Terrain1' being destroyed
+[2019.04.12-00.47.39:567][376]LogSlate: Window 'MultiplayerTest - Unreal Editor' being destroyed
+[2019.04.12-00.47.39:568][376]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.12-00.47.40:008][377]Cmd: QUIT_EDITOR
+[2019.04.12-00.47.40:806][377]LogExit: Preparing to exit.
+[2019.04.12-00.47.41:357][377]LogExit: Editor shut down
+[2019.04.12-00.47.41:359][377]LogExit: Transaction tracking system shut down
+[2019.04.12-00.47.42:028][377]LogExit: Object subsystem successfully closed.
+[2019.04.12-00.47.42:099][377]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.12-00.47.42:101][377]LogD3D11RHI: Shutdown
+[2019.04.12-00.47.42:101][377]LogD3D11RHI: CleanupD3DDevice
+[2019.04.12-00.47.42:113][377]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.12-00.47.42:207][377]LogModuleManager: Shutting down and abandoning module MeshBuilder (634)
+[2019.04.12-00.47.42:207][377]LogModuleManager: Shutting down and abandoning module Voice (632)
+[2019.04.12-00.47.42:208][377]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (628)
+[2019.04.12-00.47.42:208][377]LogModuleManager: Shutting down and abandoning module SceneOutliner (626)
+[2019.04.12-00.47.42:209][377]LogModuleManager: Shutting down and abandoning module AddContentDialog (624)
+[2019.04.12-00.47.42:211][377]LogModuleManager: Shutting down and abandoning module WidgetCarousel (623)
+[2019.04.12-00.47.42:211][377]LogModuleManager: Shutting down and abandoning module EditorWidgets (620)
+[2019.04.12-00.47.42:211][377]LogModuleManager: Shutting down and abandoning module CollectionManager (618)
+[2019.04.12-00.47.42:213][377]LogModuleManager: Shutting down and abandoning module StatsViewer (616)
+[2019.04.12-00.47.42:215][377]LogModuleManager: Shutting down and abandoning module FoliageEdit (614)
+[2019.04.12-00.47.42:215][377]LogModuleManager: Shutting down and abandoning module LandscapeEditor (612)
+[2019.04.12-00.47.42:218][377]LogModuleManager: Shutting down and abandoning module MeshPaintMode (610)
+[2019.04.12-00.47.42:219][377]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (608)
+[2019.04.12-00.47.42:219][377]LogModuleManager: Shutting down and abandoning module ActorPickerMode (606)
+[2019.04.12-00.47.42:219][377]LogModuleManager: Shutting down and abandoning module GeometryMode (604)
+[2019.04.12-00.47.42:219][377]LogModuleManager: Shutting down and abandoning module TextureAlignMode (602)
+[2019.04.12-00.47.42:219][377]LogModuleManager: Shutting down and abandoning module BspMode (600)
+[2019.04.12-00.47.42:219][377]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (598)
+[2019.04.12-00.47.42:220][377]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (596)
+[2019.04.12-00.47.42:221][377]LogModuleManager: Shutting down and abandoning module AutomationWorker (594)
+[2019.04.12-00.47.42:221][377]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (592)
+[2019.04.12-00.47.42:221][377]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (590)
+[2019.04.12-00.47.42:222][377]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (588)
+[2019.04.12-00.47.42:225][377]LogModuleManager: Shutting down and abandoning module PlacementMode (587)
+[2019.04.12-00.47.42:225][377]LogModuleManager: Shutting down and abandoning module MaterialEditor (586)
+[2019.04.12-00.47.42:225][377]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (582)
+[2019.04.12-00.47.42:225][377]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (580)
+[2019.04.12-00.47.42:225][377]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (578)
+[2019.04.12-00.47.42:225][377]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (576)
+[2019.04.12-00.47.42:225][377]LogModuleManager: Shutting down and abandoning module WebMMedia (574)
+[2019.04.12-00.47.42:226][377]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (572)
+[2019.04.12-00.47.42:228][377]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (570)
+[2019.04.12-00.47.42:230][377]LogModuleManager: Shutting down and abandoning module SequenceRecorder (569)
+[2019.04.12-00.47.42:230][377]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (566)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (564)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (562)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (560)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (558)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (556)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (554)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (552)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (550)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (548)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module CharacterAI (546)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module SmartSnapping (544)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module SessionServices (542)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module ViewportSnapping (540)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module ViewportInteraction (538)
+[2019.04.12-00.47.42:231][377]LogModuleManager: Shutting down and abandoning module ClothPainter (536)
+[2019.04.12-00.47.42:233][377]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (535)
+[2019.04.12-00.47.42:234][377]LogModuleManager: Shutting down and abandoning module LogVisualizer (532)
+[2019.04.12-00.47.42:236][377]LogModuleManager: Shutting down and abandoning module IntroTutorials (530)
+[2019.04.12-00.47.42:238][377]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (529)
+[2019.04.12-00.47.42:239][377]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (526)
+[2019.04.12-00.47.42:239][377]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (524)
+[2019.04.12-00.47.42:239][377]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (522)
+[2019.04.12-00.47.42:239][377]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (520)
+[2019.04.12-00.47.42:239][377]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (519)
+[2019.04.12-00.47.43:157][377]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (516)
+[2019.04.12-00.47.43:157][377]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (514)
+[2019.04.12-00.47.43:157][377]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (512)
+[2019.04.12-00.47.43:157][377]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (510)
+[2019.04.12-00.47.43:157][377]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (508)
+[2019.04.12-00.47.43:157][377]LogModuleManager: Shutting down and abandoning module InputBindingEditor (506)
+[2019.04.12-00.47.43:179][377]LogModuleManager: Shutting down and abandoning module MergeActors (504)
+[2019.04.12-00.47.43:180][377]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (502)
+[2019.04.12-00.47.43:181][377]LogModuleManager: Shutting down and abandoning module LocalizationService (501)
+[2019.04.12-00.47.43:182][377]LogModuleManager: Shutting down and abandoning module HardwareTargeting (498)
+[2019.04.12-00.47.43:182][377]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (496)
+[2019.04.12-00.47.43:182][377]LogModuleManager: Shutting down and abandoning module UndoHistory (494)
+[2019.04.12-00.47.43:183][377]LogModuleManager: Shutting down and abandoning module XmlParser (492)
+[2019.04.12-00.47.43:183][377]LogModuleManager: Shutting down and abandoning module Blutility (490)
+[2019.04.12-00.47.43:183][377]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (488)
+[2019.04.12-00.47.43:183][377]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (487)
+[2019.04.12-00.47.43:184][377]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (484)
+[2019.04.12-00.47.43:184][377]LogModuleManager: Shutting down and abandoning module SettingsEditor (482)
+[2019.04.12-00.47.43:185][377]LogModuleManager: Shutting down and abandoning module ProjectLauncher (480)
+[2019.04.12-00.47.43:185][377]LogModuleManager: Shutting down and abandoning module SessionFrontend (478)
+[2019.04.12-00.47.43:186][377]LogModuleManager: Shutting down and abandoning module ProfilerClient (476)
+[2019.04.12-00.47.43:187][377]LogModuleManager: Shutting down and abandoning module DeviceManager (474)
+[2019.04.12-00.47.43:187][377]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (473)
+[2019.04.12-00.47.43:242][377]LogModuleManager: Shutting down and abandoning module AutomationController (470)
+[2019.04.12-00.47.43:243][377]LogModuleManager: Shutting down and abandoning module AutomationWindow (468)
+[2019.04.12-00.47.43:244][377]LogModuleManager: Shutting down and abandoning module Layers (466)
+[2019.04.12-00.47.43:247][377]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (464)
+[2019.04.12-00.47.43:247][377]LogModuleManager: Shutting down and abandoning module DetailCustomizations (462)
+[2019.04.12-00.47.43:248][377]LogModuleManager: Shutting down and abandoning module PackagesDialog (460)
+[2019.04.12-00.47.43:248][377]LogModuleManager: Shutting down and abandoning module Persona (458)
+[2019.04.12-00.47.43:249][377]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (457)
+[2019.04.12-00.47.43:249][377]LogModuleManager: Shutting down and abandoning module AnimGraph (455)
+[2019.04.12-00.47.43:249][377]LogModuleManager: Shutting down and abandoning module Kismet (452)
+[2019.04.12-00.47.43:258][377]LogModuleManager: Shutting down and abandoning module GraphEditor (450)
+[2019.04.12-00.47.43:259][377]LogModuleManager: Shutting down and abandoning module ClassViewer (448)
+[2019.04.12-00.47.43:259][377]LogModuleManager: Shutting down and abandoning module Toolbox (446)
+[2019.04.12-00.47.43:259][377]LogModuleManager: Shutting down and abandoning module ModuleUI (444)
+[2019.04.12-00.47.43:259][377]LogModuleManager: Shutting down and abandoning module MovieSceneTools (442)
+[2019.04.12-00.47.43:259][377]LogModuleManager: Shutting down and abandoning module OutputLog (440)
+[2019.04.12-00.47.43:259][377]LogModuleManager: Shutting down and abandoning module GammaUI (438)
+[2019.04.12-00.47.43:260][377]LogModuleManager: Shutting down and abandoning module Documentation (436)
+[2019.04.12-00.47.43:260][377]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.04.12-00.47.43:260][377]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.04.12-00.47.43:261][377]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.04.12-00.47.43:261][377]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.04.12-00.47.43:261][377]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.04.12-00.47.43:261][377]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.04.12-00.47.43:261][377]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.04.12-00.47.43:261][377]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.04.12-00.47.43:261][377]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.04.12-00.47.43:262][377]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.04.12-00.47.43:262][377]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.04.12-00.47.43:262][377]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.04.12-00.47.43:262][377]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.04.12-00.47.43:263][377]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.04.12-00.47.43:268][377]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.04.12-00.47.43:449][377]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.04.12-00.47.43:451][377]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.04.12-00.47.43:451][377]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.04.12-00.47.43:451][377]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.04.12-00.47.43:452][377]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.04.12-00.47.43:452][377]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.04.12-00.47.43:452][377]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.04.12-00.47.43:452][377]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.04.12-00.47.43:452][377]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.04.12-00.47.43:452][377]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.04.12-00.47.43:452][377]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.04.12-00.47.43:453][377]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.04.12-00.47.43:453][377]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.04.12-00.47.43:453][377]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.04.12-00.47.43:455][377]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.04.12-00.47.43:455][377]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.04.12-00.47.43:455][377]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.04.12-00.47.43:461][377]LogModuleManager: Shutting down and abandoning module TargetSystem (370)
+[2019.04.12-00.47.43:461][377]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2019.04.12-00.47.43:461][377]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2019.04.12-00.47.43:461][377]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2019.04.12-00.47.43:461][377]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2019.04.12-00.47.43:462][377]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2019.04.12-00.47.43:462][377]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2019.04.12-00.47.43:462][377]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2019.04.12-00.47.43:462][377]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2019.04.12-00.47.43:462][377]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2019.04.12-00.47.43:462][377]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2019.04.12-00.47.43:462][377]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2019.04.12-00.47.43:462][377]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2019.04.12-00.47.43:462][377]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2019.04.12-00.47.43:463][377]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2019.04.12-00.47.43:463][377]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2019.04.12-00.47.43:466][377]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2019.04.12-00.47.43:467][377]LogModuleManager: Shutting down and abandoning module PolygonModeling (336)
+[2019.04.12-00.47.43:467][377]LogModuleManager: Shutting down and abandoning module MeshEditor (334)
+[2019.04.12-00.47.43:468][377]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2019.04.12-00.47.43:468][377]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2019.04.12-00.47.43:468][377]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2019.04.12-00.47.43:469][377]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2019.04.12-00.47.43:469][377]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2019.04.12-00.47.43:469][377]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2019.04.12-00.47.43:470][377]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2019.04.12-00.47.43:472][377]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2019.04.12-00.47.43:475][377]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2019.04.12-00.47.43:475][377]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2019.04.12-00.47.43:475][377]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2019.04.12-00.47.43:475][377]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2019.04.12-00.47.43:475][377]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.04.12-00.47.43:475][377]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.04.12-00.47.43:476][377]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.04.12-00.47.43:476][377]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.04.12-00.47.43:477][377]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.04.12-00.47.43:478][377]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.04.12-00.47.43:478][377]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.04.12-00.47.43:478][377]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.04.12-00.47.43:478][377]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.04.12-00.47.43:478][377]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.04.12-00.47.43:478][377]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (288)
+[2019.04.12-00.47.43:480][377]LogModuleManager: Shutting down and abandoning module ApexDestruction (286)
+[2019.04.12-00.47.43:480][377]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.12-00.47.43:481][377]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.12-00.47.43:581][377]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.12-00.47.43:682][377]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.04.12-00.47.43:682][377]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.04.12-00.47.43:683][377]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.04.12-00.47.43:683][377]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.04.12-00.47.43:683][377]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.04.12-00.47.43:683][377]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.04.12-00.47.43:685][377]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.04.12-00.47.43:688][377]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.04.12-00.47.43:689][377]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.04.12-00.47.43:689][377]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.04.12-00.47.43:689][377]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.04.12-00.47.43:690][377]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.04.12-00.47.43:693][377]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.04.12-00.47.43:693][377]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.04.12-00.47.43:693][377]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.04.12-00.47.43:693][377]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.04.12-00.47.43:694][377]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.04.12-00.47.43:694][377]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.04.12-00.47.43:694][377]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.04.12-00.47.43:705][377]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.04.12-00.47.43:712][377]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.04.12-00.47.43:712][377]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.04.12-00.47.43:712][377]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.04.12-00.47.43:713][377]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.04.12-00.47.43:713][377]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.04.12-00.47.43:713][377]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.04.12-00.47.43:714][377]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.04.12-00.47.43:715][377]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.04.12-00.47.43:715][377]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.04.12-00.47.43:715][377]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.04.12-00.47.43:718][377]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.04.12-00.47.43:718][377]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.04.12-00.47.43:720][377]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.04.12-00.47.43:720][377]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.04.12-00.47.43:720][377]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.04.12-00.47.43:721][377]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.04.12-00.47.43:726][377]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.04.12-00.47.43:726][377]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.04.12-00.47.43:729][377]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.04.12-00.47.43:729][377]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.04.12-00.47.43:734][377]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.04.12-00.47.43:735][377]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.04.12-00.47.43:735][377]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.04.12-00.47.43:735][377]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.04.12-00.47.43:735][377]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.04.12-00.47.43:735][377]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.04.12-00.47.43:735][377]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.04.12-00.47.43:735][377]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.04.12-00.47.43:735][377]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.04.12-00.47.43:736][377]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.04.12-00.47.43:737][377]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.04.12-00.47.43:737][377]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.04.12-00.47.43:740][377]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.04.12-00.47.43:742][377]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.04.12-00.47.43:742][377]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.04.12-00.47.43:742][377]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.04.12-00.47.43:743][377]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.04.12-00.47.43:744][377]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.04.12-00.47.43:822][377]LogDerivedDataCache: Shutdown
+[2019.04.12-00.47.43:822][377]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.04.12-00.47.43:822][377]LogXGEController: Cleaning working directory: C:/Users/Doug/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.12-00.47.43:823][377]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.04.12-00.47.43:823][377]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.04.12-00.47.43:823][377]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.04.12-00.47.43:824][377]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.04.12-00.47.43:824][377]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.04.12-00.47.43:824][377]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.04.12-00.47.43:826][377]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.04.12-00.47.43:826][377]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.04.12-00.47.43:826][377]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.04.12-00.47.43:826][377]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.04.12-00.47.43:826][377]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.04.12-00.47.43:826][377]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.04.12-00.47.43:826][377]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.04.12-00.47.43:826][377]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.04.12-00.47.43:826][377]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.04.12-00.47.43:826][377]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.04.12-00.47.43:827][377]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.04.12-00.47.43:839][377]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.04.12-00.47.43:840][377]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.04.12-00.47.43:840][377]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.04.12-00.47.43:840][377]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.04.12-00.47.43:840][377]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.04.12-00.47.43:845][377]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.04.12-00.47.43:845][377]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.04.12-00.47.43:851][377]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.04.12-00.47.43:851][377]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.04.12-00.47.43:899][377]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.04.12-00.47.43:900][377]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.04.12-00.47.43:900][377]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.04.12-00.47.43:900][377]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.04.12-00.47.43:900][377]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.04.12-00.47.43:900][377]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.04.12-00.47.43:900][377]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.04.12-00.47.43:900][377]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.04.12-00.47.43:900][377]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.04.12-00.47.43:900][377]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.04.12-00.47.43:900][377]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.04.12-00.47.43:900][377]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.04.12-00.47.43:900][377]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.04.12-00.47.43:901][377]LogHMD: Freeing OpenVRDLLHandle.
+[2019.04.12-00.47.43:901][377]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.04.12-00.47.43:901][377]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.04.12-00.47.43:901][377]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.04.12-00.47.43:901][377]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.04.12-00.47.43:901][377]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.04.12-00.47.43:904][377]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.04.12-00.47.43:907][377]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.04.12-00.47.43:924][377]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.04.12-00.47.43:924][377]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.12-00.47.43:924][377]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3641DB00-42B9-B775-C87D-6DB7D7F386CB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=5aded6ed4d75b21b7b1a9d99b76c8510%7C53b8f96135d5478e9411e89401ce08fe%7C781da500-8190-43fd-815a-f5273f6f81ab&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.12-00.47.43:930][377]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.04.12-00.47.43:935][377]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.04.12-00.47.43:935][377]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.04.12-00.47.43:935][377]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.04.12-00.47.43:936][377]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.04.12-00.47.43:936][377]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.04.12-00.47.43:936][377]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.04.12-00.47.43:936][377]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.04.12-00.47.43:937][377]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.12-00.47.43:937][377]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.04.12-00.47.43:938][377]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.04.12-00.47.43:939][377]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.12-00.47.43:941][377]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.12-00.47.43:941][377]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.12-00.47.43:943][377]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.12-00.47.43:943][377]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.12-00.47.43:943][377]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.12-00.47.43:943][377]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.12-00.47.43:946][377]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.12-00.47.43:948][377]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.12-00.47.43:948][377]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.12-00.47.43:949][377]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.12-00.47.43:949][377]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.12-00.47.43:949][377]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.12-00.47.43:949][377]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.12-00.47.43:949][377]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.12-00.47.43:949][377]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.12-00.47.43:949][377]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.12-00.47.43:949][377]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.12-00.47.43:962][377]LogExit: Exiting.
+[2019.04.12-00.47.44:003][377]Log file closed, 04/11/19 20:47:44
