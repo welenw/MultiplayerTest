@@ -3243,3 +3243,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.16-11.03.43:495][116]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/MainC876627946CF9F9D7F5DF982A558F9C4.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Main.umap'
 [2019.04.16-11.03.43:559][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Main_BuiltData.uasset" SILENT=true
 [2019.04.16-11.03.43:582][116]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Main_BuiltData216EE41B40F99F3B64B352B305514C3A.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Maps/Main_BuiltData.uasset'
+[2019.04.16-11.13.42:624][977]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.103
+[2019.04.16-11.13.42:625][977]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Weapons/Rifle_pCylinder3] ([1] browsable assets)...
+[2019.04.16-11.13.42:643][977]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Blueprints/Weapons/Rifle_pCylinder3.Rifle_pCylinder3]
+[2019.04.16-11.13.42:643][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/Rifle_pCylinder3]
+[2019.04.16-11.13.42:656][977]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Rifle_pCylinder3_Auto5BD288B0E469B48B63AA96F9D6AD1CFB6.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Autosaves/Game/Blueprints/Weapons/Rifle_pCylinder3_Auto5.uasset'
+[2019.04.16-11.13.42:659][977]LogFileHelpers: Auto-saving content packages took 0.034
+[2019.04.16-14.17.47:821][924]LogHttp: Warning: 000001FB1A6C9A80: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5116D213-42FB-80F9-B22A-17955D331F83%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=5aded6ed4d75b21b7b1a9d99b76c8510%7C53b8f96135d5478e9411e89401ce08fe%7C781da500-8190-43fd-815a-f5273f6f81ab&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 138, actual payload size: 138
+[2019.04.16-14.17.47:821][924]LogHttp: Warning: 000001FB1A6C9A80 Response Header Server: awselb/2.0
+[2019.04.16-14.17.47:821][924]LogHttp: Warning: 000001FB1A6C9A80 Response Header Date: Tue, 16 Apr 2019 14:17:46 GMT
+[2019.04.16-14.17.47:821][924]LogHttp: Warning: 000001FB1A6C9A80 Response Header Content-Type: text/html
+[2019.04.16-14.17.47:821][924]LogHttp: Warning: 000001FB1A6C9A80 Response Header Content-Length: 138
+[2019.04.16-14.17.47:821][924]LogHttp: Warning: 000001FB1A6C9A80 Response Header Connection: keep-alive
+[2019.04.16-16.41.04:935][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.16-16.41.23:324][147]LogEditorFactories: Performing atomic reimport of [C:/Users/Doug/Desktop/ZooRoyale/Materials/Textures/Gunz/SniperRifle_Sniper_BaseColor.png]
+[2019.04.16-16.41.23:325][147]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Doug/Desktop/ZooRoyale/Materials/Textures/Gunz/SniperRifle_Sniper_BaseColor.png)
+[2019.04.16-16.41.24:821][147]LogTexture: Display: Building textures: SniperRifle_Sniper_BaseColor (AutoDXT, 512X512)
+[2019.04.16-16.41.24:925][147]LogEditorFactories: -- imported successfully
+[2019.04.16-16.42.04:812][441]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.265
+[2019.04.16-16.42.04:814][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Weapons/SniperRifle_Sniper_BaseColor] ([1] browsable assets)...
+[2019.04.16-16.42.04:829][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/Weapons/SniperRifle_Sniper_BaseColor.SniperRifle_Sniper_BaseColor]
+[2019.04.16-16.42.04:829][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/SniperRifle_Sniper_BaseColor]
+[2019.04.16-16.42.04:845][441]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/SniperRifle_Sniper_BaseColor_AutB64198C049A7A7E85BCACCAB6A2CF26A.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Autosaves/Game/Blueprints/Weapons/SniperRifle_Sniper_BaseColor_Auto6.uasset'
+[2019.04.16-16.42.04:848][441]LogFileHelpers: Auto-saving content packages took 0.035
+[2019.04.16-16.49.00:807][679]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.16-16.50.06:914][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.16-22.58.19:555][ 42]LogSlate: Window 'Save Content' being destroyed
+[2019.04.16-22.58.19:742][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviroment/grassplan" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Enviroment/grassplan.uasset" SILENT=true
+[2019.04.16-22.58.20:091][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/grassplan801B24254C723B7608F0B7BA3FF02E7C.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Enviroment/grassplan.uasset'
+[2019.04.16-22.58.20:098][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/LMG" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/LMG.uasset" SILENT=true
+[2019.04.16-22.58.20:104][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/LMGC180DFF745DA28102FC0B7A13B36ED5E.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/LMG.uasset'
+[2019.04.16-22.58.20:112][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/LMG_LMG_BaseColor" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/LMG_LMG_BaseColor.uasset" SILENT=true
+[2019.04.16-22.58.20:172][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/LMG_LMG_BaseColorEC7E4D3446FD6993748DEEA9CF63AFA3.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/LMG_LMG_BaseColor.uasset'
+[2019.04.16-22.58.20:179][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/LMG_LMG_Normal" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/LMG_LMG_Normal.uasset" SILENT=true
+[2019.04.16-22.58.20:219][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/LMG_LMG_Normal0AEE3A2E418B89D7DA5EE8B708BFBA70.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/LMG_LMG_Normal.uasset'
+[2019.04.16-22.58.20:253][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/LMG_LMG_OcclusionRoughnessMetallBF54E6014602D50CC912139C0D291F34.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/LMG_LMG_OcclusionRoughnessMetallic.uasset'
+[2019.04.16-22.58.20:260][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Rifle_pCube6" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/Rifle_pCube6.uasset" SILENT=true
+[2019.04.16-22.58.20:265][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Rifle_pCube6E0D1DEFF48F2B8458363018C941D707A.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/Rifle_pCube6.uasset'
+[2019.04.16-22.58.20:271][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Rifle_pCylinder3" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/Rifle_pCylinder3.uasset" SILENT=true
+[2019.04.16-22.58.20:276][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Rifle_pCylinder37BF939C04B71744E567431952D01DC11.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/Rifle_pCylinder3.uasset'
+[2019.04.16-22.58.20:335][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Rifle_Rifle_BaseColorC1F3B4B34AB63B1DFE371B9FC4EABB87.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/Rifle_Rifle_BaseColor.uasset'
+[2019.04.16-22.58.20:341][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Rifle_Rifle_Normal" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/Rifle_Rifle_Normal.uasset" SILENT=true
+[2019.04.16-22.58.20:380][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Rifle_Rifle_NormalCD0B8F354D4D7099C47862A991259177.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/Rifle_Rifle_Normal.uasset'
+[2019.04.16-22.58.20:415][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Rifle_Rifle_OcclusionRoughnessMe0169625B441F567F1DCA8E8A6863DD48.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/Rifle_Rifle_OcclusionRoughnessMetallic.uasset'
+[2019.04.16-22.58.20:421][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Shotgun_pCube4" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/Shotgun_pCube4.uasset" SILENT=true
+[2019.04.16-22.58.20:427][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Shotgun_pCube4451F9FDE482CB1E46E73C5850BC8F62B.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/Shotgun_pCube4.uasset'
+[2019.04.16-22.58.20:678][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Shotgun_shotgun_BaseColor16D229E248937668D7E6F4B6B6723A12.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/Shotgun_shotgun_BaseColor.uasset'
+[2019.04.16-22.58.20:901][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/Shotgun_shotgun_OcclusionRoughne3E9275DC4C37952B36E5769592EEE947.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/Shotgun_shotgun_OcclusionRoughnessMetallic.uasset'
+[2019.04.16-22.58.20:907][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/SniperRifle_pCube9" FILE="C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/SniperRifle_pCube9.uasset" SILENT=true
+[2019.04.16-22.58.20:913][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/SniperRifle_pCube96C3EEFC0432F544EC07735B6194D53ED.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/SniperRifle_pCube9.uasset'
+[2019.04.16-22.58.21:003][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/SniperRifle_Sniper_BaseColorC0C2812143BC8A7A9BBD16882E841616.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/SniperRifle_Sniper_BaseColor.uasset'
+[2019.04.16-22.58.21:048][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/SniperRifle_Sniper_NormalB9FC8F9142AB8D71F8A9CCB61578AF02.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/SniperRifle_Sniper_Normal.uasset'
+[2019.04.16-22.58.21:086][ 42]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Saved/SniperRifle_Sniper_OcclusionRougAF5607F1473E8A1A5DE427A31042A4AF.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/MultiplayerTest/Content/Blueprints/Weapons/SniperRifle_Sniper_OcclusionRoughnessMetallic.uasset'
+[2019.04.16-22.58.21:615][ 42]LogSlate: Window 'LMGLP_Blueprint' being destroyed
+[2019.04.16-22.58.24:645][ 42]LogSlate: Window 'MultiplayerTest - Unreal Editor' being destroyed
+[2019.04.16-22.58.24:646][ 42]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.16-22.58.27:874][ 43]Cmd: QUIT_EDITOR
+[2019.04.16-22.58.29:638][ 43]LogExit: Preparing to exit.
+[2019.04.16-22.58.35:687][ 43]LogExit: Editor shut down
+[2019.04.16-22.58.35:689][ 43]LogExit: Transaction tracking system shut down
